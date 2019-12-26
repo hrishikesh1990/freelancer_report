@@ -1,8 +1,50 @@
 module.exports = {
   title: 'Remote Work 2020',
+  description: "Your definitive guide to state of remote work and working remotely in 2020.",
+  head: [
+    [
+      "link",
+      {
+        rel: "apple-touch-icon",
+        sizes: "180x180",
+        href: "/assets/RT_Final_Logo.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image/png",
+        sizes: "32x32",
+        href: "/assets/RT_Final_Logo.png"
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image/png",
+        sizes: "16x16",
+        href: "/assets/RT_Final_Logo.png"
+      }
+    ],
+    ['script', { src: 'https://f.convertkit.com/ckjs/ck.5.js', defer: '' }]
+  ],
+  serviceWorker: true,
   themeConfig: {
     docsDir: "docs",
-    logo: "assets/RT_Final_Logo.png",
+    editLinks: true,
+    editLinkText: "Suggest an improvement",
+    logo: "assets/remote_work_2020.png",
+    mobileLogo: "assets/remote_work_2020.png",
+    nav: [
+      {
+        text: "Remote Tools",
+        link: "https://remote.tools",
+        rel: "noopener"
+      }
+    ],
+    smoothScroll: true,
     sidebar: [
       "/",
       "2-state-of-remote-work",
