@@ -1,30 +1,12 @@
-# Remote Working Guide
+# > Battling loneliness
 
-Remote work has numerous advantages. This guide isn't written to document the basics such as the upsides of remote work - those are fairly well-discussed.
-
-Remote work, however, is an art that is still being unravelled. There are questions to which there is still no right answer. Most leaders are learning on the go and could likely get a few things wrong. The critical thing though is to document those experiences so that others can learn from them. Solutions are clearly not one-size fits all, but at the same time offer perspective which can then be adapted to a personal context.
-
-With that background, we chose to explore some important challenges that remote employers and employees are facing. We have condensed our learnings based on our interactions with companies that have successfully scaled remote teams and built successful businesses such as Gitlab, Invision, Hubstaff, Doist, etc. and also based on stories of remote workers.
-
-We strive to continuously update these learnings, so if you have some inputs on the below answers, feel free to shoot hrishikesh@remote.tools a mail with your thoughts.
-
-The challenges we are exploring are:
-
--   [How to tackle loneliness?](https://slite.com/api/public/notes/65TRltAB6Q/redirect "How to tackle loneliness?")
--   [How to manage a remote team?](https://slite.com/api/public/notes/65TRltAB6Q/redirect "How to manage a remote team?")
--   [How to build culture in a remote team?](https://slite.com/api/public/notes/65TRltAB6Q/redirect "How to build culture in a remote team?")
--   [Remote-first or Remote-friendly?](https://slite.com/api/public/notes/65TRltAB6Q/redirect "Remote-first or Remote-friendly?")
--   [Is remote the future?](https://slite.com/api/public/notes/65TRltAB6Q/redirect "Is remote the future?")
-
-## Battling loneliness and prioritising mental well-being
-
-_"Remote work is for introverts as they don't like interacting with others anyway". _I have heard this from a few individuals. Nothing could be further from the truth 😷.
+*"Remote work is for introverts as they don't like interacting with others anyway".* I have heard this from a few individuals. Nothing could be further from the truth 😷.
 
 
 
 We, as humans, are social beings. Some of us might not acknowledge the need for human interaction or even like it as a concept, however, it is clear that irrespective of our personality types, we require it.
 
-**Popular misconception of the remote working lifestyle**
+## Popular misconception of the remote working lifestyle
 
 Borrowing from stats from the previous section: xx% feel that loneliness is one of their main problems as a result of working remotely. Further, yy% are unable to separate work from their personal life, leading to a further deterioration of mental health.
 
@@ -34,7 +16,7 @@ In this context, I can't recommend Amir's (CEO of Doist) [blog on mental wellbei
 
 > "At the time, I had no idea that this would be the start of the unhappiest period of my life. For the record, ending a long-term relationship and moving away from family, friends, and any other meaningful human connection you might have in the world is a terrible idea. Couple that with a non-existent work-life balance, and you have an excellent recipe for misery."
 
-Takeaways from Doist's initiatives
+## Takeaways from Doist's initiatives
 
 A few clear next steps for all remote workers are listed below:
 
@@ -48,7 +30,7 @@ A few clear next steps for all remote workers are listed below:
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/2f26bea3-eb53-4ace-bc0d-7912b5aca7e7/image.png)
 
-Some personal initiatives
+## Some personal initiatives
 
 At a personal level, to ensure that you continue to remain mentally super-fit, below are some steps that you can take:
 
@@ -66,15 +48,3 @@ At a personal level, to ensure that you continue to remain mentally super-fit, b
 > **- Almar Klein, &lt;xx>**
 
 -   **Networking events**: These could be events to build your skillsets or just a group of like-minded people getting together. Either way, it is a great outlet to breaking the monotony of working alone and also learning a few new things along the way!
-
-## How to manage a remote team?
-
-&lt;xx>
-
-
-
-## How to build culture in a remote team?
-
-## Remote-first or Remote-friendly?
-
-## Is remote the future?
