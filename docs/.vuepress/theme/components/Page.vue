@@ -22,12 +22,11 @@
       <div>
         Made with ❤️ by
         <a
-          href="https://www.moonlightwork.com/"
+          href="https://remote.tools"
           rel="noopener"
           target="_blank"
-        >Moonlight</a>.
+        >Remote Tools</a>.
       </div>
-      <span class="copyright">&copy; {{ new Date().getFullYear() }} Moonlight Work Inc.</span>
     </footer>
   </main>
 </template>

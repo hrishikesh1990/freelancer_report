@@ -1,3 +1,3 @@
 # State of Remote Work 2020
 
-<<TBD>>
+TO BE DONE
