@@ -120,6 +120,7 @@ $font-xs = 0.625rem /* 10px */
 .subscribe-container
   margin-top 4rem
   margin-bottom 2rem
+  width 100%
 
 .copyright
   color $dark-5

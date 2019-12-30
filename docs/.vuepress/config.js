@@ -27,8 +27,7 @@ module.exports = {
         sizes: "16x16",
         href: "/assets/RT_Final_Logo.png"
       }
-    ],
-    ['script', { src: 'https://f.convertkit.com/ckjs/ck.5.js', defer: '' }]
+    ]
   ],
   serviceWorker: true,
   themeConfig: {
