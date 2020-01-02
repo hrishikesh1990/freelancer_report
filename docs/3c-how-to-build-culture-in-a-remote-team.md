@@ -1,4 +1,8 @@
-# > Culture in a remote team
+---
+title: ➡️ Culture in a remote team
+---
+
+# How to build culture in a remote team
 
 Culture can make or break a team. However, being an abstract concept, the need to build a strong culture is often ignored. It usually signifies different things to each company, but at the core it is a bunch of values, which are either explicitly defined or implicitly followed, while working towards a specific goal. Culture generally has very little to do with an individual and is more about how a group of people perform together.
 

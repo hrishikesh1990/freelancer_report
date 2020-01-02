@@ -1,4 +1,8 @@
-# Remote Working Guide 2020
+---
+title: Remote Working Guide
+---
+
+# Remote Working Guide
 
 Remote work has numerous advantages. This guide isn't written to document the basics such as the upsides of remote work - those are fairly well-discussed.
 
