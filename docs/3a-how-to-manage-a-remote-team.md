@@ -2,7 +2,7 @@
 title: ➡️ Managing a remote team
 ---
 
-# How to manage a remote team
+![](/assets/managing_a_remote_team.png)
 
 So you have made the choice to build a remote team. As a consequence, you have been able to get a bunch of talented individuals distributed across a few countries 😎 . Now comes the difficult part of actually managing a brilliant team - while they might be good individual performers, you would like them to collaborate and become a great collective unit.
 

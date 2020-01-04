@@ -2,7 +2,7 @@
 title: Remote Working Guide
 ---
 
-# Remote Working Guide
+![](/assets/remote_working_guide.png)
 
 Remote work has numerous advantages. This guide isn't written to document the basics such as the upsides of remote work - those are fairly well-discussed.
 

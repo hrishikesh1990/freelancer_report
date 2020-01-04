@@ -1,8 +1,8 @@
 ---
-title: State of Remote Work
+title: State of Remote Work 2020
 ---
 
-# State of Remote Work
+![](/assets/state_of_remote_work.png)
 
 While in the following sections, we try to propose some solutions to the various challenges of working remotely, a good place to start is to listen to the voices of the many remote workers who are already living this lifestyle.
 

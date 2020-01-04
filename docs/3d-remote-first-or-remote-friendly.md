@@ -2,7 +2,7 @@
 title: ➡️ Being remote-first
 ---
 
-# Remote-first or remote-friendly
+![](/assets/being_remote_first.png)
 
 When I was first introduced to the concept of remote working, I never truly appreciated the various levels of remote that a company could adopt. Below is a graphic created by Buffer that tries to categorise the way a company could approach remote working.
 
