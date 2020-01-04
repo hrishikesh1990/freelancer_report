@@ -34,8 +34,8 @@ module.exports = {
     docsDir: "docs",
     editLinks: true,
     editLinkText: "Suggest an improvement",
-    logo: "assets/remote_work_2020.png",
-    mobileLogo: "assets/remote_work_2020.png",
+    logo: "/assets/remote_work_2020.png",
+    mobileLogo: "/assets/remote_work_2020.png",
     nav: [
       {
         text: "Remote Tools",
