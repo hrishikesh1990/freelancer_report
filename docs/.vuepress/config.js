@@ -32,14 +32,17 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     docsDir: "docs",
-    editLinks: true,
-    editLinkText: "Suggest an improvement",
     logo: "/assets/remote_work_2020.png",
     mobileLogo: "/assets/remote_work_2020.png",
     nav: [
       {
         text: "Remote Tools",
         link: "https://remote.tools",
+        rel: "noopener"
+      },
+      {
+        text: "Subscribe",
+        link: "https://remote.tools/subscribe",
         rel: "noopener"
       }
     ],
