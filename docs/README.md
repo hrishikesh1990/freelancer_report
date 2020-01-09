@@ -18,7 +18,9 @@ Massive proliferation, improved reliability and easy access of these technologie
 
 1) Let's just start with one of the most mind boggling stats released recently by The Economist - there could be one billion remote workers by the year 2035!
 
-
+<ClientOnly>
+  <Tweet id="1163345065017794560" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 2) So, do we have to wait till 2035 to see a massive change in people's preferences. Absolutely not! In this next 2-3 years, an estimated 59 million people are considering the life of a digital nomad 😵
 
@@ -40,13 +42,21 @@ Massive proliferation, improved reliability and easy access of these technologie
 
 \- **Eric Yuan, CEO - Zoom**
 
+<ClientOnly>
+  <Tweet id="1192800482986790914" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
+<ClientOnly>
+  <Tweet id="1195028807574421504" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
+<ClientOnly>
+  <Tweet id="1181622688004968449" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
-
-
-
-
+<ClientOnly>
+  <Tweet id="1170983210270019584" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 > "&lt;Quote around each company being viable for remote working> - Darren Murph, All Remote Culture Curator - Gitlab
 
@@ -54,7 +64,7 @@ Massive proliferation, improved reliability and easy access of these technologie
 
 The Remote Work 2020 report is meant to be a combination of three broad sections:
 
--   **State of Remote Work 2020**: Stats & figures based on our survey of &lt;xx> remote workers from Invision, Gitlab, Doist and many more distributed teams!
+-   **State of Remote Work 2020**: Stats & figures based on our survey of 331 remote workers from Invision, Gitlab, Doist and many more distributed teams!
 -   **Remote work guide**: Our commentary on pressing topics around remote work based on learnings from interactions with leaders of distributed teams and successful remote workers.
 -   **Podcasts & stories**: The actual source of truth for us 😀. The collection of podcasts with leaders from Gitlab, Invision, Doist, Scrapinghub, FlexJobs, etc. and chronicles of remote workers - the people we have learnt the intricacies of remote work from!
 

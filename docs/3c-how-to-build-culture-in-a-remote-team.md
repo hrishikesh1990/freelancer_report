@@ -12,7 +12,7 @@ Therefore, it becomes much more important to be intentional in building a cultur
 
 > It comes about in everything we do. How we communicate, either via Slack, in Discourse, in Email, or on Zoom calls. It comes about on our retreats. It’s reflected in the decisions that are made, like sharing so much of Buffer’s processes and revenue transparently, etc.
 
-> **- Hailley Griffis, Head Of Public Relations at Buffer**
+**- Hailley Griffis, Head Of Public Relations at Buffer**
 
 Let's delve into some ways that you can build culture in your team:
 - [Clarity in values](#_1-clarity-in-values)
@@ -32,7 +32,7 @@ The document is meant to be inspirational and at the same time extremely actiona
 
 > "Transparency is one of our values. We have a handbook that is publicly accessibly - if we printed it, it would 3000 pages.
 
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+**- Darren Murph, All Remote Culture Curator at Gitlab**
 
 ## 2. Explicitly communicate it internally and publicly
 
@@ -54,7 +54,7 @@ In this context, Scott from Invision mentioned a tool called Bonusly, that allow
 
 > "One tool that we use which is amazing and I would highly recommend to everybody is Bonusly - it is this tool where you can literally give anywhere between a dollar to...we have a 25 dollars budget per month, so a dollar to 25 dollars, to anybody for anything. You can do it in slack natively and @ so & so + x dollars for doing xyz, #teamwork. It is this great little way to say that you are thankful for something or give someone praise...You really build rapport with the people that are giving these bonuses to, people see them and you really feels good when you get one.
 
-> **- Scott Hanford, Director of Customer Acquisition at Invision**
+**- Scott Hanford, Director of Customer Acquisition at Invision**
 
 ## 5. Intentional vs. Organic initiatives
 
@@ -62,7 +62,7 @@ In our chat with Darren from Gitlab, he mentioned that teams need to be intentio
 
 > "...you need to weave things like coffee chats, group social calls, team social calls, company calls. You need to weave that into the culture and carve out time company-wide to make this a thing. So every week I spend time talking to people about life not about work during work hours, because that is the only way to build relationships with people when you are all across the world.
 
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+**- Darren Murph, All Remote Culture Curator at Gitlab**
 
 Scott from Invision, did appreciate the need to be intentional about developing relationships, however, felt that they could also make such conversations quite awkward. He observed that initiatives grow organically have done much better.
 
@@ -70,13 +70,13 @@ One organic method that has worked for them has been to allocate 5-mins at the b
 
 > "...the other thing that we have done well on our team and other teams and have always promoted internally at Invision as I think this is the most organic, best way to do it. The first 5 mins or so of any meeting are religiously dedicated, whether it is 1-on-1s or a larger group, to just socialising - shooting the sh\*t on random things. And that's your opportunity to like be human about stuff.
 
-> **- Scott Hanford, Director of Customer Acquisition at Invision**
+**- Scott Hanford, Director of Customer Acquisition at Invision**
 
 Shane, co-founder of Scrapinghub, mentioned that the crucial ingredient to success was to ensure that such initiatives were led and grown from bottom-up rather than being pushed from the top. He found that there was much wider acceptance and that everyone enjoyed the experience much more.
 
 > "I think you need to be deliberate about a lot of things. I'll take a good example: it is what we call our Shrubbers voice squad - it is a group of people we set up to talk to people in Scrapinghub to represent different views, to kickoff initiatives...we are doing a Mouvember thing at the moment around wellness. So, we kicked it off and it was a deliberate set up and I decided that this shouldn't be all top-down led. I wanted a group of people at Scrapinghub who were passionate about this and weren't just coming from management.
 
-> **- Shane Evans, Co-founder & CEO of Scrapinghub**
+**- Shane Evans, Co-founder & CEO of Scrapinghub**
 
 ## 6. Slack channels
 
@@ -84,7 +84,7 @@ An aspect which helps people bond with each other is common interests. Building 
 
 > "...things we have done where we find success at Invision and in my own team are: Channels in slack where people have certain interests. We have got about a few hundred at this point from cryptocurrency to NBA.....That's actually how you can really have a like a socialisation of certain themes and things that you are interested in with other co-workers.
 
-> **- Scott Hanford, Director of Customer Acquisition at Invision**
+**- Scott Hanford, Director of Customer Acquisition at Invision**
 
 ## 7. Team offsites
 

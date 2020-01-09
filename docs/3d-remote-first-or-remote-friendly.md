@@ -22,6 +22,10 @@ Consider your weekly or monthly in-office team meetings with remote team members
 
 This context enables us to put Eric Yuan's (Zoom's CEO) following comment in perspective, as it is not a simple decision to just "allow" his team to start working remotely from tomorrow.
 
+<ClientOnly>
+  <Tweet id="1192509196740087809" :options="{ conversation: 'none' }" />
+</ClientOnly>
+
 ## How do we build a truly remote-first culture?
 
 Building a remote-first culture, as the name suggests, involves designing processes that are first inclusive of remote employees, rather than that being an afterthought. Here are some points to set the right tone:
@@ -32,16 +36,16 @@ Building a remote-first culture, as the name suggests, involves designing proces
 
 > “From the employer’s standpoint, two things come to mind. You need to be extremely intentional about informal communication. And this is a big one because when you are in a co-located setting, people tend to cross paths so they can more naturally develop relationships in and outside of work which generally helps the morale of the company. In a remote setting, you need to be intentional about this. So you need to weave things like coffee chats, group social calls, team social calls, company calls. You need to weave that into the culture and carve out time company-wide to make this a thing.”
 
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+**- Darren Murph, All Remote Culture Curator at Gitlab**
 
 2) **Default to videoconferencing for meetings**: Justine Jordan, Head of Marketing at HelpScout, put it beautifully in a report prepared by Trello. She essentially suggested that if even a single person is remote for a particular meeting, then everyone else also moves to a remote setting. This ensures a level playing field for all, where ideas and information can be consumed in an equal fashion.
 
 > "Unless every person is in the same room, all meetings are held over video conference. We’ve all been that one person dialing into a call only to hear a room full of noise, echo, and side conversations on the other end. It’s a terrible experience. So when one person is “remote” for a meeting, everyone is.
 
-> **- Justine Jordan, Head of Marketing at HelpScout**
+**- Justine Jordan, Head of Marketing at HelpScout**
 
 3) **Team offsite bonding**: It is important for remote workers and in-office employees to get to meet each other outside the digital setting. Apart from actually getting to know people's personalities and forming personal bonds, this allows for them to also exchange perspectives. This naturally improves productivity and collaboration as now individuals can relate to the people they are working at a much better level.
 
 > "The Retreats are huge. If we didn't do that, we would have lost a lot of people. But because they got to know me, my co-founder, their teams, the managers, developers, each other - it brings out a sense of belonging. It is only for a week, but it is really big!"
 
-> **- Dave Nevogt, Co-founder & CEO of Hubstaff**
+**- Dave Nevogt, Co-founder & CEO of Hubstaff**

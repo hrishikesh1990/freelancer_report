@@ -17,7 +17,9 @@ A few critical factors need to be executed successfully for the overall remote i
 
 In an in-office situation, we have the benefit of having the physical presence of the person we are interacting with. We can convey information to one-another in bits & pieces. This is clearly inefficient, but we have the benefit that the person can easily reach out for additional context. Also, do you need to ideate? Let's just grab a meeting room.
 
-
+<ClientOnly>
+  <Tweet id="1203268207655768064" :options="{ conversation: 'none' }" />
+</ClientOnly>
 
 On the other hand, the first aspect of working that gets affected almost immediately, is communication between team members. None of the ease of collaboration experienced in a co-located scenario is available to remote workers.
 
