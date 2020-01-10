@@ -3,7 +3,7 @@ title: The Remote Working Show
 ---
 
 ## #1: Darren Murph, All-Remote Culture Curator at GitLab
-
+<br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/693720226&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 **Show Notes**
@@ -19,7 +19,7 @@ The discussion helped us uncover why GitLab feels strongly about remote work. Ad
 GitLab has started an “All-Remote Pick Your Brain” initiative to help answer and document questions related to remote working. To schedule an interview you can visit [this page](https://about.gitlab.com/company/culture/all-remote/pick-your-brain/). Further details about GitLab’s remote initiatives can be found [here](https://about.gitlab.com/company/culture/all-remote/).
 
 ## #2: Scott Hanford, Director of Customer Acquisition at InVision
-
+<br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/705912271&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 **Show Notes**
@@ -34,10 +34,10 @@ In terms of building a culture, Scott recognized that intentional initiatives ha
 
 There is a lot more that Scott had to share around remote work at InVision. Do hear the podcast and share your feedback!
 
-You can follow Scott on [Twitter](https://twitter.com/hanfordscott) or get in touch with him on mail at <mailto:scott@scotthanford.com>.
+You can follow Scott on [Twitter](https://twitter.com/hanfordscott) or get in touch with him on mail at [scott@scotthanford.com](mailto:scott@scotthanford.com).
 
 ## #3: Dave Nevogt, Co-founder & CEO at Hubstaff
-
+<br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709799791&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 **Show Notes**
@@ -50,4 +50,4 @@ A successful and an experienced entrepreneur, Dave shared his thoughts on how VC
 
 Other than his views on the nuances of building a startup, the discussion helped us uncover how strongly Dave believes in remote working. He mentions how yearly offsites have played an important role in employee retention and to improve rapport within the team.
 
-Hubstaff has documented their growth story [here](https://blog.hubstaff.com/grow/). Dave can be reached on <mailto:dave@hubstaff.com> and you can follow him on [Twitter](https://twitter.com/dnevogt?lang=en).
+Hubstaff has documented their growth story [here](https://blog.hubstaff.com/grow/). Dave can be reached on [dave@hubstaff.com](mailto:dave@hubstaff.com) and you can follow him on [Twitter](https://twitter.com/dnevogt?lang=en).
