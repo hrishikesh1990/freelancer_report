@@ -4,9 +4,9 @@ title: The Remote Working Show
 
 ## #1: Darren Murph, All-Remote Culture Curator at GitLab
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/693720226&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-## **Show Notes**
+**Show Notes**
 
 In this episode, we had a great conversation with Darren Murph, All Remote Culture Curator at GitLab. Darren leads all remote initiatives at GitLab while also working on spreading the word about these initiatives.
 
@@ -20,9 +20,9 @@ GitLab has started an “All-Remote Pick Your Brain” initiative to help answer
 
 ## #2: Scott Hanford, Director of Customer Acquisition at InVision
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/705912271&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-## Show Notes
+**Show Notes**
 
 Scott Hanford, Director of Customer Acquisition at InVision, joined us on the Remote Working Show this week. He traversed the diverse worlds of Investment Banking and Entrepreneurship, to then lead product growth at multiple startups before joining InVision.
 
@@ -38,9 +38,9 @@ You can follow Scott on [Twitter](https://twitter.com/hanfordscott) or get in 
 
 ## #3: Dave Nevogt, Co-founder & CEO at Hubstaff
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709799791&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-
-## Show Notes
+**Show Notes**
 
 In this episode, Dave, Co-founder & CEO of Hubstaff, joined us. Dave has been an entrepreneur for almost two decades and has now grown hubstaff into a $6 million ARR business.
 

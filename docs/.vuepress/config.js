@@ -55,7 +55,9 @@ module.exports = {
       "3b-how-to-tackle-loneliness",
       "3c-how-to-build-culture-in-a-remote-team",
       "3d-remote-first-or-remote-friendly",
-      "3e-is-remote-the-future"
+      "3e-is-remote-the-future",
+      "4-the-remote-working-show",
+      "5-the-remote-working-chronicles"
     ]
   }
 }
