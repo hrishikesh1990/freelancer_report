@@ -59,5 +59,17 @@ module.exports = {
       "4-the-remote-working-show",
       "5-the-remote-working-chronicles"
     ]
+  },
+  plugins: {
+    "@vuepress/google-analytics": {
+      ga: "UA-127123211-4"
+    },
+    robots: {
+      host: "https://remoteWork2020.remote.tools",
+      allowAll: true
+    },
+    sitemap: {
+      hostname: "https://remoteWork2020.remote.tools"
+    }
   }
 }
