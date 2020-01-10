@@ -33,7 +33,7 @@ module.exports = {
   themeConfig: {
     docsDir: "docs",
     logo: "/assets/remote_work_2020.png",
-    mobileLogo: "/assets/remote_work_2020.png",
+    mobileLogo: "/assets/RT_Final_Logo.png",
     nav: [
       {
         text: "Remote Tools",
