@@ -82,6 +82,7 @@ module.exports = {
     },
     sitemap: {
       hostname: "https://remoteWork2020.remote.tools"
-    }
+    },
+    'vuepress-plugin-nprogress':{}
   }
 }
