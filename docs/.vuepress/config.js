@@ -27,6 +27,13 @@ module.exports = {
         sizes: "16x16",
         href: "/assets/RT_Final_Logo.png"
       }
+    ],
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "ZIy3cvwxCLmcL34jqUREniW7Nt-rOEJWDAzGIY6fpgo"
+      }
     ]
   ],
   serviceWorker: true,
