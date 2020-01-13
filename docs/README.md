@@ -12,7 +12,7 @@ Post the WWII, as the world economy started to gain momentum, large offices with
 
 But it wasn't until the advent of computers, which accelerated the growth of the knowledge economy, and later the internet, that "remote work" as we see today started to appear. These technologies allowed individuals to collaborate and contribute without the need to be in the same location.
 
-Massive proliferation, improved reliability and easy access of these technologies has since  made remote work evolve from an occasional employee necessity, to company-provided perk to now, a serious way of working.
+Massive proliferation, improved reliability and easy access of these technologies has since  made remote work evolve from an occasional employee necessity, to company-provided perk, to now, a serious way of working.
 
 ## **Encouraging stats for remote work**
 
@@ -32,7 +32,7 @@ Massive proliferation, improved reliability and easy access of these technologie
 
 -   Gitlab's IPO in Late 2020
 -   Invision & Gitlab cross the 1000 employees mark
--   Boston, Vermont, Tulsa among other cities and states in the US offer incentives to remote workers in the form of tax breaks and relocation subsidies
+-   Boston, Vermont, Tulsa, among other cities and states in the US, offer incentives to remote workers in the form of tax breaks and relocation subsidies
 -   Tokyo tests out a trial remote working policy to encourage individuals to work from home and unblock the public transport system in preparation for 2020 Olympic games
 -   Remote First Capital makes its first few investments
 
@@ -58,7 +58,8 @@ Massive proliferation, improved reliability and easy access of these technologie
   <Tweet id="1170983210270019584" :options="{ conversation: 'none' }" />
 </ClientOnly>
 
-> "&lt;Quote around each company being viable for remote working> - Darren Murph, All Remote Culture Curator - Gitlab
+> "If your output as a business is purely digital and there are knowledge-based workers, there's no reason why you can. The way I like to say it is - if most of your people come to work everyday and open/look at their computer and hours later go home, they could have done that from anywhere."<br>**- Darren Murph, All Remote Culture Curator, Gitlab**
+
 
 ## Exploring the Remote Work 2020 report
 

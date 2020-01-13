@@ -4,7 +4,7 @@ title: ➡️ Is remote the future?
 
 ![](/assets/is_remote_the_future.png)
 
-Remote work isn't a new concept. In fact, as we pointed out in earlier sections, the origins of remote work go back to the post WWII era. Large hybrid teams or work from home options have been mainstream for a long time. To push the boundaries, in recent years, companies like GitLab, InVision, ScrapingHub etc. have taken the lead in building 100% distributed teams of over 1,000 employees.s
+Remote work isn't a new concept. In fact, as we pointed out in earlier sections, the origins of remote work go back to the post WWII era. Large hybrid teams or work from home options have been mainstream for a long time. To push the boundaries, in recent years, companies like GitLab, InVision, ScrapingHub etc. have taken the lead in building 100% distributed teams of about 1,000 employees.
 
 The pertinent question, however, is whether the remote movement is large enough to make it a default for future?
 
@@ -16,9 +16,11 @@ If you are the founder or founding member of an early-stage startup, you would k
 
 Naturally, the choice then shifts to the global workforce where you can work with anyone from anywhere in the world and find the best person for the job, not just settle for someone less qualified.
 
+
 **2. Improved retention**
 
 Employee retention is a significant challenge for companies as the average time spent by an individual drops every year. With remote, the great thing is you will never have employees leave your team due to change in personal circumstances (e.g. unable to travel to office or shifting back to hometown).
+
 
 **3. Higher productivity**
 
