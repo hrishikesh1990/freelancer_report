@@ -36,13 +36,9 @@ Further, when enquired if they were always positive about work, a majority of re
 
 Also, remote working helps people with personal constraints to still be able to build a solid career - 16% of our respondents stated personal reasons as the nudge to consider remote work.
 
-As [Candace Ramirez shared in her story](https://content.remote.tools/a-content-creator-who-finds-comfort-mental-wellbeing-in-remote-work/):
+As [Candace Ramirez shared in her story](https://content.remote.tools/a-content-creator-who-finds-comfort-mental-wellbeing-in-remote-work?ref=RemoteWork2020):
 
-> **"**
->
-> I’ve just never felt comfortable in an office setting. I need to be cozy and completely at ease in order to focus on work. I’m a night owl too, so I do most of my best work at home in the evenings with my dog curled up at my feet.
-
-> And truthfully, there’s also a mental health benefit in it for me. I have PTSD, and working from home takes a lot of the stress out of my day.
+> "I’ve just never felt comfortable in an office setting. I need to be cozy and completely at ease in order to focus on work. I’m a night owl too, so I do most of my best work at home in the evenings with my dog curled up at my feet. <br><br> And truthfully, there’s also a mental health benefit in it for me. I have PTSD, and working from home takes a lot of the stress out of my day.
 
 ## Battling Work-life balance and Loneliness remains tough
 
@@ -52,13 +48,9 @@ Another understandably important reason was managing work and communicating acro
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/ab56b6fc-63d0-4bed-ac84-b498e27f1c26/image.png)
 
-Alondo Brewington beautifully [stated the challenge loneliness presents and the importance to tackle it](https://content.remote.tools/the-cocoa-nomad-shares-his-remote-work-journey-over-10-years/):
+Alondo Brewington beautifully [stated the challenge loneliness presents and the importance to tackle it](https://content.remote.tools/the-cocoa-nomad-shares-his-remote-work-journey-over-10-years?ref=RemoteWork2020):
 
-> **"**
->
-> While working remotely work has been largely positive, it can be very isolating and lonely. If you are not mindful of its effects, you can develop some bad habits that could negatively impact your well being.
-
-> Physical and mental health are incredibly important. I would encourage everyone to make time for fostering community and self-care while working remotely.
+> "While working remotely work has been largely positive, it can be very isolating and lonely. If you are not mindful of its effects, you can develop some bad habits that could negatively impact your well being.<br><br>Physical and mental health are incredibly important. I would encourage everyone to make time for fostering community and self-care while working remotely.
 
 ## Even with the growth in co-working spaces, remote workers choose to work from home
 
@@ -70,7 +62,7 @@ Co-working spaces were surprisingly not a very popular choice at 8%. Many remote
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/9bfe1d96-2717-414b-95ad-bd654919ea9a/image.png)
 
-[_Silvestar's_](https://www.linkedin.com/in/starbist/)_ home set up - to read his story, _[_click here_](https://content.remote.tools/creating-modern-pixel-perfect-websites-while-freelancing-remotely/)
+*[Silvestar's](https://www.linkedin.com/in/starbist/) home set up - to read his story, [click here](https://content.remote.tools/creating-modern-pixel-perfect-websites-while-freelancing-remotely?ref=RemoteWork2020)*
 
 ## Remote work doesn't mean employees are not working, but probably working too much!
 
@@ -88,9 +80,7 @@ Team offsites was next in the list at 25%, which Dave Nevogt, Co-founder & CEO o
 
 Scott Hanford, Director of Customer Acquisition at Invision, on a podcast with us shared the importance of slack channels:
 
-> **"**
->
-> ...things we have done where we find success at Invision and in my own team are: Channels in slack where people have certain interests. We have got about a few hundred at this point from cryptocurrency to NBA.....That's actually how you can really have like a socialisation of certain themes and things that you are interested in with other co-workers.
+> "...things we have done where we find success at Invision and in my own team are: Channels in slack where people have certain interests. We have got about a few hundred at this point from cryptocurrency to NBA.....That's actually how you can really have like a socialisation of certain themes and things that you are interested in with other co-workers.
 
 ## Companies are slowly recognising that having a 100% remote company is better than partially remote teams
 

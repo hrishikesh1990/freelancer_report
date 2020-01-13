@@ -70,4 +70,4 @@ The Remote Work 2020 report is meant to be a combination of three broad sections
 
 Each of these sections has been further sub-divided into more focused topics that we have tried to uncover. Use the navigation on the left to choose specific narratives that interest you 😬!
 
-Goes without saying - if you have any feedback, feel free to drop a mail to hrishikesh@remote.tools.
+Goes without saying - if you have any feedback, feel free to drop a mail to [hrishikesh@remote.tools](mailto:hrishikesh@remote.tools).

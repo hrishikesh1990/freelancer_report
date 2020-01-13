@@ -44,19 +44,7 @@ So, what are the advantages of working asynchronously:
 -   **Extensive documentation**: Async directly promotes one of the other tenets of remote working - documentation. Putting down everything in writing ensures that there is a single source of truth that can always be returned to in case of confusion.
 -   **Better work-life balance**: Beyond just increasing personal productivity, having control over your workday and being able to time your responses, results in a superior work-life balance and less stress.
 
-> **Pro-tip:**
->
->  One interesting nugget that Darren slipped in while discussing how they implement asynchronous through Slack, was that GitLab doesn’t subscribe to a tier that stores messages perpetually.
-
-> This forces everyone to document information that is critical to the project or a later time in the future in GitLab project management/ issues rather than relying on a short-term convenient option on Slack.
-
-> _Listen to this specific section here on the podcast: _
->
-> [_Link_](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=49:28)
-
-> "We do not pay for a tier in Slack that would keep your messages perpetually and it’s intentional. We actually don’t want people defaulting to using Slack if they could convey project-related information through GitLab issues or merge requests which are much more permanent and are directly related to the work. From an efficiency standpoint, if you have solved something on slack then you have to translate that over to a merge request or to an issue to make something happen.”
-
-> **- Darren Murph, All Remote Culture Curator, Gitlab**
+> **Pro-tip:** One interesting nugget that Darren slipped in while discussing how they implement asynchronous through Slack, was that GitLab doesn’t subscribe to a tier that stores messages perpetually. <br><br>This forces everyone to document information that is critical to the project or a later time in the future in GitLab project management/ issues rather than relying on a short-term convenient option on Slack.<br><br>*Listen to this specific section here on the podcast: [Link](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=49:28)*<br><br>"We do not pay for a tier in Slack that would keep your messages perpetually and it’s intentional. We actually don’t want people defaulting to using Slack if they could convey project-related information through GitLab issues or merge requests which are much more permanent and are directly related to the work. From an efficiency standpoint, if you have solved something on slack then you have to translate that over to a merge request or to an issue to make something happen.”<br>**- Darren Murph, All Remote Culture Curator, Gitlab**
 
 ### B) Focus on output
 
@@ -86,21 +74,13 @@ The parameters on which such a structure can be defined on are:
 -   **Urgency**: How time-critical is the information that you need from someone else? In the end stages of a project, it is likely that such situations can arise. At such times, it might make sense to recognise the need for a channel that everyone needs to be available on - for e.g. phone, zoom, etc.
 -   **Message sensitivity**: Some conversations such as sharing of feedback are better done on video calls, where the individuals can also infer from verbal cues rather than just relying on words.
 
-> **Pro-tip:**
->
->  On our podcasts with Brie (FlexJobs) and Scott (Invision), both mentioned the
->
-> _**importance of using emoticons**_
->
->  to soften the message while chatting on Slack. Since in written communication often the spirit behind the message can be misinterpreted, emoticons help in reassuring the recipient of the nature of the message. So, be generous with the emoticons used in your conversations!
+> **Pro-tip:** On our podcasts with Brie (FlexJobs) and Scott (Invision), both mentioned the <u>*importance of using emoticons*</u> to soften the message while chatting on Slack. Since in written communication often the spirit behind the message can be misinterpreted, emoticons help in reassuring the recipient of the nature of the message. So, be generous with the emoticons used in your conversations!
 
 -   **Number of people involved**: Getting a huge number of people on a call is always a challenge and often unproductive. Therefore, other than for project beginnings and scheduled checkpoints, a call for a large part of the team might not make total sense. It is best to break challenges into smaller problems and to have micro conversations around them. For larger team discussions, slack or organising it around a project management tool might make more sense.
 
 For two to three individuals, it has to be decided on a case-to-case basis. The default is written communication which does work well most of the times, but could turn inefficient. Scott, Director of Customer Acquisition at Invision, covered this point beautifully in one of his [LinkedIn articles](https://www.linkedin.com/pulse/slack-zoom-remote-shoulder-tap-scott-hanford/).
 
-> "..in a fully remote environment some interesting cultural dynamics evolve that make this remote shoulder tap a bit more complex. People aren’t as keen to ask individuals to jump on a call as quickly – it is quite interesting. Now, this isn't science...this is just my observation......and sometimes you all would have been better off just jumping on a quick Zoom."
-
-> **- Scott Hanford, Director of Customer Acquisition at Invision**
+> "..in a fully remote environment some interesting cultural dynamics evolve that make this remote shoulder tap a bit more complex. People aren’t as keen to ask individuals to jump on a call as quickly – it is quite interesting. Now, this isn't science...this is just my observation......and sometimes you all would have been better off just jumping on a quick Zoom."<br>**- Scott Hanford, Director of Customer Acquisition at Invision**
 
 ## 2. Documentation
 
@@ -112,13 +92,9 @@ For example, Gitlab's handbook is a staggering 3000 pages, and has been collabor
 
 To just showcase, the varied nature of topics covered, here are a couple excerpts from the employee handbook:
 
-> "Having pets, children, significant others, friends and family visible during video chats is encouraged. If they are human, ask them to wave at your remote team member to say ‘Hi.’
+> "Having pets, children, significant others, friends and family visible during video chats is encouraged. If they are human, ask them to wave at your remote team member to say ‘Hi.’<br>**- Gitlab Handbook (Excerpt 1)**
 
-> **- Gitlab Handbook (Excerpt 1)**
-
-> "One of the worst things are approval processes. We should keep approval processes to a minimum. Both by giving people the authority to decide by themselves and by having a quick lightweight approval process where needed.”
-
-> **- Gitlab Handbook (Excerpt 2)**
+> "One of the worst things are approval processes. We should keep approval processes to a minimum. Both by giving people the authority to decide by themselves and by having a quick lightweight approval process where needed.”<br>**- Gitlab Handbook (Excerpt 2)**
 
 As we can see, it is not just about more common topics such as Onboarding or Appraisals that have been covered. Situations that are peculiar to remote working have been covered as well as parts that are unique to Gitlab's culture, so that anytime a Gitlab employee is unsure about what they need to do in a particular situation, they can just resort to the handbook - the single source of truth! What's more - if it can’t be found, the onus is on the person to find the answer, and to then document it there, so that the next person looking for the same can find it easily!
 
@@ -136,13 +112,7 @@ Overall documentation helps in:
 
  
 
-> “The biggest thing is documentation. And people like me coming in a few years into the company have a lot to be grateful for to our founders to think about documentation when the company was only 3 to 5 people. So, our handbook is 3000 pages long and it documents every process imaginable within GitLab front to back, even cultural processes. Everything is documented. And so, even people coming in now can look back at what was documented at the very beginning and it is very easy to get onboard instead of getting a hand me down of a hand me down of a hand me down.
-
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
-
-> _You can listen to this specific section here on the podcast: _
->
-> [_Link_](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=10:30)
+> “The biggest thing is documentation. And people like me coming in a few years into the company have a lot to be grateful for to our founders to think about documentation when the company was only 3 to 5 people. So, our handbook is 3000 pages long and it documents every process imaginable within GitLab front to back, even cultural processes. Everything is documented. And so, even people coming in now can look back at what was documented at the very beginning and it is very easy to get onboard instead of getting a hand me down of a hand me down of a hand me down. <br>**- Darren Murph, All Remote Culture Curator at Gitlab** <br><br>*You can listen to this specific section here on the podcast: [Link](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=10:30)*
 
 ## 3. Onboarding
 
@@ -172,9 +142,7 @@ One of the immediate and most obvious steps after joining the team is to introdu
 
 This could start with anyone in the team giving a small introduction of the person and welcoming them followed by others giving them a warm welcome too! Other than messages on a public channel, personally messaging the individual would make them feel more special and welcome.
 
-> "On someone’s first day they get set up on all our tools, sync up with their lead and key points of contact, enjoy a robust welcome GIF party, and read through some key docs about our vision, mission, and values.
-
-> **- Courtney Seiter, Director of People at Buffer**
+> "On someone’s first day they get set up on all our tools, sync up with their lead and key points of contact, enjoy a robust welcome GIF party, and read through some key docs about our vision, mission, and values. <br>**- Courtney Seiter, Director of People at Buffer**
 
 ### C) Assigning a mentor
 
@@ -182,9 +150,7 @@ In the early days of joining, it is usually nice to have someone you can reach o
 
 Taking the mentorship process a step ahead, the team arranges for a "Mentor Trip", where the new hire travels to meet their mentor and to work with them in-person for a week. This helps create a strong bond between the two and also speeds the process of onboarding.
 
-> "Mentoring is critical. Working remotely can be isolating, and asking questions can be intimidating. To counter this, it’s important to make mentorship and feedback loops as explicit as possible. Conversely, you might not need an explicit mentor in a typical office setting. You’re sitting sitting side by side with your peers all day, every day. Mentorship is implied, even if undefined, throughout the numerous face-to-face interaction day in and day out. This difference makes it even more important that this challenge is acknowledged and proactively worked on.
-
-> **Gonçalo Silva, CTO of Doist**
+> "Mentoring is critical. Working remotely can be isolating, and asking questions can be intimidating. To counter this, it’s important to make mentorship and feedback loops as explicit as possible. Conversely, you might not need an explicit mentor in a typical office setting. You’re sitting sitting side by side with your peers all day, every day. Mentorship is implied, even if undefined, throughout the numerous face-to-face interaction day in and day out. This difference makes it even more important that this challenge is acknowledged and proactively worked on. <br>**- Gonçalo Silva, CTO of Doist**
 
 In a conversation with us, Brie, Career Development Manager at FlexJobs, mentioned how they have a similar concept of setting new hires up with a "Team Buddy". The "Team Buddy" would be a person from a different team to allow them to know people from other parts of the company. This ensures that they don't keep talking to the same set of people everyday.
 
