@@ -26,11 +26,11 @@ We, in fact, added this option because Scott Hanford, Director of Customer Acqui
 
 There could be a variety of reasons to work remotely, however, the most stated one by some margin was the Flexibility in work timings at 39%. This is an interesting stat for companies - offering flexible work hours might improve retention and employee happiness.
 
-The other motivators stated included Avoiding long commutes (25%) and Time with loved ones (21%). Quite in contrast to the popular depiction of remote working being pursued by individuals with "wanderlust", only 8% of our respondents selected the opportunity to travel the world as their motivator.
+The other motivators stated included *Avoiding long commutes* (25%) and *Time with loved ones* (21%). Quite in contrast to the popular depiction of remote working being pursued by individuals with "wanderlust", only 8% of our respondents selected the *opportunity to travel the world* as their motivator.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/ecb3a1f7-4a58-457b-931d-a83124ffe6e7/image.png)
 
-Further, when enquired if they were always positive about work, a majority of respondents (58%) confirmed that this is the only kind of work they always wanted to do. However, a sizeable chunk also said that they just happened to land a remote role (26%). This indicates that not only people interested in working remotely are finding such roles, but also companies offering remote roles are finding individuals who didn't have remote working in mind but were just the best suited individuals for those roles.
+Further, when enquired if they were always positive about work, a majority of respondents (58%) confirmed that this is the only kind of work they always wanted to do. However, a sizeable chunk also said that they just happened to land a remote role (26%). This indicates that not only people interested in working remotely are finding such roles, but also that companies offering remote roles are finding individuals who didn't have remote working in mind but were just the best suited individuals for those roles.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/0b2ffa68-63ac-4f4a-a299-be9e8e5fa9f5/image.png)
 
@@ -38,10 +38,8 @@ Also, remote working helps people with personal constraints to still be able to 
 
 As [Candace Ramirez shared in her story](https://content.remote.tools/a-content-creator-who-finds-comfort-mental-wellbeing-in-remote-work/):
 
-> **"**
+> **"** I’ve just never felt comfortable in an office setting. I need to be cozy and completely at ease in order to focus on work. I’m a night owl too, so I do most of my best work at home in the evenings with my dog curled up at my feet.
 >
-> I’ve just never felt comfortable in an office setting. I need to be cozy and completely at ease in order to focus on work. I’m a night owl too, so I do most of my best work at home in the evenings with my dog curled up at my feet.
-
 > And truthfully, there’s also a mental health benefit in it for me. I have PTSD, and working from home takes a lot of the stress out of my day.
 
 ## Battling Work-life balance and Loneliness remains tough
@@ -54,10 +52,8 @@ Another understandably important reason was managing work and communicating acro
 
 Alondo Brewington beautifully [stated the challenge loneliness presents and the importance to tackle it](https://content.remote.tools/the-cocoa-nomad-shares-his-remote-work-journey-over-10-years/):
 
-> **"**
+> **"** While working remotely work has been largely positive, it can be very isolating and lonely. If you are not mindful of its effects, you can develop some bad habits that could negatively impact your well being.
 >
-> While working remotely work has been largely positive, it can be very isolating and lonely. If you are not mindful of its effects, you can develop some bad habits that could negatively impact your well being.
-
 > Physical and mental health are incredibly important. I would encourage everyone to make time for fostering community and self-care while working remotely.
 
 ## Even with the growth in co-working spaces, remote workers choose to work from home
@@ -66,11 +62,11 @@ Working from home was the most popular choice amongst all remote workers at whop
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/dc96296e-dc6c-404f-9194-04d10b619fa7/image.png)
 
-Co-working spaces were surprisingly not a very popular choice at 8%. Many remote workers we spoke to had stated the positive effects of working in a co-working space - opportunity to interact with others which helps them address loneliness and improves productivity too. In alignment with the previous question, working while travelling the world was selected by only 5% people.
+Co-working spaces were surprisingly not a very popular choice at 8%. Many remote workers we spoke to, stated positive effects of working in a co-working space including the opportunity to interact with others, which helps them address loneliness and improves productivity too. In alignment with the previous question, working while travelling the world was selected by only 5% people.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/9bfe1d96-2717-414b-95ad-bd654919ea9a/image.png)
 
-[_Silvestar's_](https://www.linkedin.com/in/starbist/)_ home set up - to read his story, _[_click here_](https://content.remote.tools/creating-modern-pixel-perfect-websites-while-freelancing-remotely/)
+[Silvestar's](https://www.linkedin.com/in/starbist/) home set up - to read his story, *[click here]*(https://content.remote.tools/creating-modern-pixel-perfect-websites-while-freelancing-remotely/)
 
 ## Remote work doesn't mean employees are not working, but probably working too much!
 
@@ -78,29 +74,27 @@ Our survey indicated that remote workers are probably working higher than the us
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/df60bb32-28b4-47e3-a402-55f21f3fd91a/image.png)
 
-## Dedicated slack or similar channels for interests has been the easiest and best method to build good personal bonds in teams
+## Dedicated slack for interests has been the easiest and best method to build good personal bonds in teams
 
 Forming strong relationships in a remote team is a tough task given a lot of conversations revolve around the current work at hand. Therefore, one needs to be intentional in creating opportunities for such interactions. Our respondents observed that dedicated slack channels for individuals to interact with one-another on mutual interests (34%) were one of the simplest and surest ways to form personal bonds.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/129cefa0-3118-4277-983b-9984016165b9/image.png)
 
-Team offsites was next in the list at 25%, which Dave Nevogt, Co-founder & CEO of Hubstaff, mentioned was one of the most important elements of building relationships and has also helped them in employee retention. Other initiatives included informal catch-up or video calls (21%) and other ad hoc company initiatives such as pizza sessions or Movember, etc. (7%).
+*Team offsites* was next in the list at 25%, which Dave Nevogt, Co-founder & CEO of Hubstaff, mentioned was one of the most important elements of building relationships and has also helped them in employee retention. Other initiatives included *informal catch-up or video calls* (21%) and other *ad hoc company initiatives such as pizza sessions or Movember, etc.* (7%).
 
-Scott Hanford, Director of Customer Acquisition at Invision, on a podcast with us shared the importance of slack channels:
+**Scott Hanford, Director of Customer Acquisition at Invision,** on a podcast with us shared the importance of slack channels:
 
-> **"**
->
-> ...things we have done where we find success at Invision and in my own team are: Channels in slack where people have certain interests. We have got about a few hundred at this point from cryptocurrency to NBA.....That's actually how you can really have like a socialisation of certain themes and things that you are interested in with other co-workers.
+> **"**...things we have done where we find success at Invision and in my own team are: Channels in slack where people have certain interests. We have got about a few hundred at this point from cryptocurrency to NBA.....That's actually how you can really have like a socialisation of certain themes and things that you are interested in with other co-workers.
 
 ## Companies are slowly recognising that having a 100% remote company is better than partially remote teams
 
-About 52% of our respondents worked in a fully-remote company. This could also be a bias based on the type of companies we reached out to. However, growing teams by taking the 100% distributed approach has become more popular over the years given the ability to source the best talent for a particular role. About 21% were either freelancers or individual entrepreneurs.
+About 52% of our respondents worked in a fully-remote company. This could also be a bias based on the type of companies we reached out to. However, growing teams by taking the 100% distributed approach has become more popular over the years given the ability to source the best talent for a particular role.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/d7904ffe-e035-4455-b0e8-d5819a0e9ff2/image.png)
 
-Companies still continue to offer remote working options selectively: 14% worked in companies where only certain teams were allowed to work remotely and another 11% where each individual could decide to work remotely or in-office. Very few companies (1%) allowed just a few days of work each week.
+Companies still continue to offer remote working options selectively: 14% worked in companies where only certain teams were allowed to work remotely and another 11% where each individual could decide to work remotely or in-office. Very few companies (1%) allowed just a few days of remote work each week.
 
-Additionally, to aid remote workers in building a healthy and reliable workspace, 52% of respondent shared that their companies have begun to fund better infrastructure. This helps in better productivity for the employees too and sends the message that the company is fully invested in promoting remote work.
+Additionally, to aid remote workers in building a healthy and reliable workspace, 52% of respondents shared that their companies have begun to fund better infrastructure. This helps in better productivity for the employees too and sends the message that the company is fully invested in promoting remote work.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/416e49db-4939-4bfc-94bf-fe09adf67f95/image.png)
 
