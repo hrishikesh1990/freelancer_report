@@ -40,19 +40,23 @@ You can follow Scott on [Twitter](https://twitter.com/hanfordscott) or get in 
 
 ## #3: Shane Evans, Co-founder & CEO at Scrapinghub
 <br>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709799791&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/742662112&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 **Show Notes**
 
-In this episode, Dave, Co-founder & CEO of Hubstaff, joined us. Dave has been an entrepreneur for almost two decades and has now grown hubstaff into a $6 million ARR business.
+Shane Evans, Co-founder and CEO of Scarpinghub, joined us on this episode of the Remote Working Show. Shane has been working in the tech industry for over two decades, of which the past decade has been spent building Scrapinghub.
 
-Hubstaff is a 100% globally distributed company with over 50 remote workers. Uniquely, the company consists of all contract workers. Dave mentioned that this has been a conscious choice as many people on the team continue to pursue other things on the side, which is supported and appreciated by Hubstaff.
+Interestingly, Scrapinghub has bootstrapped its way to explosive growth and to over 150 employees. Starting it as a services company was key in ensuring that cash started to flow in, which enabled them to then build a strong product around it.
 
-A successful and an experienced entrepreneur, Dave shared his thoughts on how VC/ PE investment early-on would have allowed them to grow faster but still feels that bootstrapping was the right decision for them. Hubsaff is also very open about all its numbers, which are publicly viewable [here](https://hubstaff.baremetrics.com/). This stems from their belief in transparency, confidence in execution, while also been a good source of leads for them.
+Shane discusses the entire entrepreneurial journey - the challenges, mistakes as well as the successes achieved. The insights shared in the process were very interesting - in particular, about the need to start formalising a hierarchy and adding a layer of senior management to structure growth.
 
-Other than his views on the nuances of building a startup, the discussion helped us uncover how strongly Dave believes in remote working. He mentions how yearly offsites have played an important role in employee retention and to improve rapport within the team.
+Scrapinghub has been a remote company from the very beginning. It all started from the very popular open-source framework, Scrappy, which Shane himself coded. Developers who already knew were hired irrespective of geography and the company hasn't looked back since.
 
-Hubstaff has documented their growth story [here](https://blog.hubstaff.com/grow/). Dave can be reached on [dave@hubstaff.com](mailto:dave@hubstaff.com) and you can follow him on [Twitter](https://twitter.com/dnevogt?lang=en).
+Shane did mention the difficulty in managing a remote sales team though. He felt that the onboarding wasn't easy in such a situation and they have, therefore, decided to keep the sales team co-located. This underlined the importance to not be tied to the concept of remote at all times - the needs of the company should supersede the strong push to be remote.
+
+He also shares the initiatives and the methods that have made them a successful remote company. He mentions that ensuring initiatives are driven bottom-up has been a critical reason for their success.
+
+Shane can be followed on LinkedIn and Twitter and reached at <a href="mailto:shane@scrapinghub.com">shane@scrapinghub.com</a>.
 
 ## #4: Dave Nevogt, Co-founder & CEO at Hubstaff
 <br>
