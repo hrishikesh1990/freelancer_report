@@ -38,7 +38,23 @@ There is a lot more that Scott had to share around remote work at InVision. Do h
 
 You can follow Scott on [Twitter](https://twitter.com/hanfordscott) or get in touch with him on mail at [scott@scotthanford.com](mailto:scott@scotthanford.com).
 
-## #3: Dave Nevogt, Co-founder & CEO at Hubstaff
+## #3: Shane Evans, Co-founder & CEO at Scrapinghub
+<br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709799791&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+**Show Notes**
+
+In this episode, Dave, Co-founder & CEO of Hubstaff, joined us. Dave has been an entrepreneur for almost two decades and has now grown hubstaff into a $6 million ARR business.
+
+Hubstaff is a 100% globally distributed company with over 50 remote workers. Uniquely, the company consists of all contract workers. Dave mentioned that this has been a conscious choice as many people on the team continue to pursue other things on the side, which is supported and appreciated by Hubstaff.
+
+A successful and an experienced entrepreneur, Dave shared his thoughts on how VC/ PE investment early-on would have allowed them to grow faster but still feels that bootstrapping was the right decision for them. Hubsaff is also very open about all its numbers, which are publicly viewable [here](https://hubstaff.baremetrics.com/). This stems from their belief in transparency, confidence in execution, while also been a good source of leads for them.
+
+Other than his views on the nuances of building a startup, the discussion helped us uncover how strongly Dave believes in remote working. He mentions how yearly offsites have played an important role in employee retention and to improve rapport within the team.
+
+Hubstaff has documented their growth story [here](https://blog.hubstaff.com/grow/). Dave can be reached on [dave@hubstaff.com](mailto:dave@hubstaff.com) and you can follow him on [Twitter](https://twitter.com/dnevogt?lang=en).
+
+## #4: Dave Nevogt, Co-founder & CEO at Hubstaff
 <br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/709799791&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 

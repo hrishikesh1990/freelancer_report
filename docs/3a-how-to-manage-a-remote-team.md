@@ -47,7 +47,7 @@ So, what are the advantages of working asynchronously:
 
 -   **Better work-life balance**: Beyond just increasing personal productivity, having control over your workday and being able to time your responses, results in a superior work-life balance and less stress.
 
-> **Pro-tip:** One interesting nugget that Darren slipped in while discussing how they implement asynchronous through Slack, was that GitLab doesn’t subscribe to a tier that stores messages perpetually.<br><br>This forces everyone to document information that is critical to the project or a later time in the future in GitLab project management/ issues rather than relying on a short-term convenient option on Slack.<br><br>*Listen to this specific section here on the podcast:* [_Link_](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=49:28)<br><br>"We do not pay for a tier in Slack that would keep your messages perpetually and it’s intentional. We actually don’t want people defaulting to using Slack if they could convey project-related information through GitLab issues or merge requests which are much more permanent and are directly related to the work. From an efficiency standpoint, if you have solved something on slack then you have to translate that over to a merge request or to an issue to make something happen.”
+> **Pro-tip:** One interesting nugget that Darren slipped in while discussing how they implement asynchronous through Slack, was that GitLab doesn’t subscribe to a tier that stores messages perpetually.<br><br>This forces everyone to document information that is critical to the project or a later time in the future in GitLab project management/ issues rather than relying on a short-term convenient option on Slack.<br><br>*Listen to this specific section here on the podcast:* [_Link_](https://soundcloud.com/remote-tools/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=49:28)<br><br>"We do not pay for a tier in Slack that would keep your messages perpetually and it’s intentional. We actually don’t want people defaulting to using Slack if they could convey project-related information through GitLab issues or merge requests which are much more permanent and are directly related to the work. From an efficiency standpoint, if you have solved something on slack then you have to translate that over to a merge request or to an issue to make something happen.”
 >
 >**- Darren Murph, All Remote Culture Curator, Gitlab**
 
@@ -61,9 +61,7 @@ However, such a culture needs to be inculcated amongst all. In a chat with **Sco
 
 This attitude might become a reactionary measure to tackle individuals who are performing poorly. Scott suggested that such cases can be addressed in the following manner:
 
--   **Chat 1-on-1**: Firstly, the person who is performing poorly needs to understand the spirit with which you are approaching to solve the situation, which is to get the performance on track and that you are going to be working constructively towards reaching that outcome.
-
-This is best discussed on a video call and also 1-on-1 - being a delicate conversation it is important that statements are not misinterpreted (and hence should be had on video call rather than on chat) and in an environment where they don't feel cornered (therefore, the 1-on-1).
+-   **Chat 1-on-1**: Firstly, the person who is performing poorly needs to understand the spirit with which you are approaching to solve the situation, which is to get the performance on track and that you are going to be working constructively towards reaching that outcome.<br><br>This is best discussed on a video call and also 1-on-1 - being a delicate conversation it is important that statements are not misinterpreted (and hence should be had on video call rather than on chat) and in an environment where they don't feel cornered (therefore, the 1-on-1).
 
 -   **Be super specific on output**: Break the tasks down to a manageable granularity and make the expected work extremely clear. The goal is to ensure that missed deadlines aren't due to lack of clarity in tasks.
 
@@ -132,7 +130,7 @@ Overall documentation helps in:
 >
 > **- Darren Murph, All Remote Culture Curator at Gitlab**
 >
-> *You can listen to this specific section here on the podcast:* [_Link_](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=10:30)
+> *You can listen to this specific section here on the podcast:* [_Link_](https://soundcloud.com/remote-tools/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=10:30)
 
 ## 3. Onboarding
 

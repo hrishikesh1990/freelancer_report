@@ -46,7 +46,7 @@ At a personal level, to ensure that you continue to remain mentally super-fit, b
 >
 > **- Al Chen, Solutions Architect and Evangelist at Coda.io**
 
--   **Indulging your passion**: As seen in the tweet by [Allan Kjellstrøm Christensen, COO - Doist](https://slite.com/api/public/notes/65TRltAB6Q/redirect "Allan Kjellstrøm Christensen, COO - Doist"), allocating time for and diving deep into your passions allows you to recover mentally. It could be pottery, music, gardening or the like - anything that interests you, can have a great calming effect!
+-   **Indulging your passion**: As seen in the tweet by [Allan Kjellstrøm Christensen, COO - Doist](https://twitter.com/doist/status/991739833419816961"), allocating time for and diving deep into your passions allows you to recover mentally. It could be pottery, music, gardening or the like - anything that interests you, can have a great calming effect!
 
 -   **Co-working spaces**: While a home office works just fine, it is still just you alone in a room. Moving out of your home and into a co-working space allows you to meet other people. While you don't have to and likely wouldn't be talking to them all the time, you still get access to "coffee breaks", otherwise absent at home. Even if you work out of a home office, occasionally going to a co-working space or even a coffee shop to work might be extremely refreshing 😋!
 

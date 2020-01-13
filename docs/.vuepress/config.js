@@ -44,6 +44,11 @@ module.exports = {
         text: "Subscribe",
         link: "https://remote.tools/subscribe",
         rel: "noopener"
+      },
+      {
+        text: "Follow us on Twitter",
+        link: "https://twitter.com/RemoteTools",
+        rel: "noopener"
       }
     ],
     smoothScroll: true,

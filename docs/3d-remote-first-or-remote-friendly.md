@@ -32,7 +32,7 @@ Building a remote-first culture, as the name suggests, involves designing proces
 
 1) **Be intentional**: According to Darren, All Remote Culture Curator at Gitlab, the key for every company looking to go remote is to be highly intentional about everything. It is very easy for individuals and companies to default to processes that would work in a typical co-located setting, which can be very dangerous. Therefore, a conscious and intentional approach to everyday work is needed to make remote work successful.
 
-*You could listen to him share this specific feedback here:* [Link](https://soundcloud.com/hrishikesh-pardeshi-491909503/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=20:22)
+*You could listen to him share this specific feedback here:* [Link](https://soundcloud.com/remote-tools/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=20:22)
 
 > “From the employer’s standpoint, two things come to mind. You need to be extremely intentional about informal communication. And this is a big one because when you are in a co-located setting, people tend to cross paths so they can more naturally develop relationships in and outside of work which generally helps the morale of the company. In a remote setting, you need to be intentional about this. So you need to weave things like coffee chats, group social calls, team social calls, company calls. You need to weave that into the culture and carve out time company-wide to make this a thing.”
 >

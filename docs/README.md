@@ -40,7 +40,7 @@ Massive proliferation, improved reliability and easy access of these technologie
 
 "If we were to start over I would have built Zoom fully remote. It's too expensive here now."
 
-\- **Eric Yuan, CEO - Zoom**
+\- **Eric Yuan, CEO, Zoom**
 
 <ClientOnly>
   <Tweet id="1192800482986790914" :options="{ conversation: 'none' }" />
