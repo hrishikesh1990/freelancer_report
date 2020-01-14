@@ -64,7 +64,7 @@ Shane can be followed on LinkedIn and Twitter and reached at <a href="mailto:sha
 
 **Show Notes**
 
-In this episode, Dave, Co-founder & CEO of Hubstaff, joined us. Dave has been an entrepreneur for almost two decades and has now grown hubstaff into a $6 million ARR business.
+In this episode, Dave, Co-founder & CEO of Hubstaff, joined us. Dave has been an entrepreneur for almost two decades and has now grown Hubstaff into a $6 million ARR business.
 
 Hubstaff is a 100% globally distributed company with over 50 remote workers. Uniquely, the company consists of all contract workers. Dave mentioned that this has been a conscious choice as many people on the team continue to pursue other things on the side, which is supported and appreciated by Hubstaff.
 
@@ -73,3 +73,23 @@ A successful and an experienced entrepreneur, Dave shared his thoughts on how VC
 Other than his views on the nuances of building a startup, the discussion helped us uncover how strongly Dave believes in remote working. He mentions how yearly offsites have played an important role in employee retention and to improve rapport within the team.
 
 Hubstaff has documented their growth story [here](https://blog.hubstaff.com/grow/). Dave can be reached on [dave@hubstaff.com](mailto:dave@hubstaff.com) and you can follow him on [Twitter](https://twitter.com/dnevogt?lang=en).
+
+## #5: Brie Reynolds, Career Development Manager and Coach at FlexJobs
+<br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/743290066&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+**Show Notes**
+
+In this episode, we spoke to Brie Reynolds, Career Development Manager and Coach at FlexJobs. Brie has been helping individuals shape their careers for over 15 years and joined FlexJobs as its 9th employee a decade back.
+
+FlexJobs is a 100% distributed company with ~100 full and part-time employees, all in the US. The company helps individuals find jobs that don't fit the regular 9-to-5 structure. This includes freelance jobs through FlexJobs and fully-remote roles through its sister-company, [Remote.co](https://remote.co).
+
+Brie discussed how the job market has changed in the past decade with companies not only hiring more freelancers, but also becoming increasingly comfortable with fully remote roles. She also observes that such jobs have moved beyond only tech to other functions as well.
+
+As an experienced career coach, she advises people to convey why they would be a great worker remotely and also their prowess over popular tech products, when applying remotely. Brie mentioned this as she has found many applications focusing on a person's own reasons for applying to the job rather than making a case for the value they could add to the company.
+
+Being a manager of a remote team herself, Brie recognises the difficulty that communication presents and the need to be intentional about it. She tries to address this challenge by regularly scheduling meetings with her team members. Given the importance of communication, she also mentions how FlexJobs tests applicants on this aspect while hiring.
+
+Brie also shared the challenges she faced while onboarding new employees and about the Buddy system at FlexJobs to ease new hires into the company. Additionally, being a mother of two, she appreciates the flexibility that her remote role offers, but also underlines the need to have a clear segregation between work and personal time.
+
+Brie can be followed on [Twitter](https://twitter.com/briewreynolds) or you connect with her on [LinkedIn](https://www.linkedin.com/in/brieweilerreynolds).
