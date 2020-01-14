@@ -48,7 +48,7 @@ module.exports = {
         rel: "noopener"
       },
       {
-        text: "Subscribe",
+        text: "Subscribe to Newsletter",
         link: "https://remote.tools/subscribe",
         rel: "noopener"
       },
