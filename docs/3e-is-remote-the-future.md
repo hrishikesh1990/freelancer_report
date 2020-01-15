@@ -50,13 +50,20 @@ However, the good thing is that given the awareness of these problems, people ar
 
 So, yes! We believe remote will surely become the default mode of work in future. A huge chunk of indicators signal the movement of companies embracing remote on a wide scale. So it is time, you should prepare yourself to embrace remote 🙌
 
+<style>
+@media only screen and (max-width: 600px) {
+  .partner-logo {
+    width:40px;
+  }
+}
+</style>
 <br>
 <center>
 <b>PARTNERS</b>
 <hr>
-<!--<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
-&emsp;&emsp;&emsp;-->
-<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+<a href="https://www.flexiple.com" target="_blank"><img class="partner-logo" src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
 &emsp;&emsp;&emsp;
-<a href="https://runningremote.com" target="_blank"><img src="/assets/running-remote.jpg" width=80/></a>
+<a href="https://weworkremotely.com" target="_blank"><img class="partner-logo" src="/assets/WWR.png" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://runningremote.com" target="_blank"><img class="partner-logo" src="/assets/running-remote.jpg" width=80/></a>
 </center>

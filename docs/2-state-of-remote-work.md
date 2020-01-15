@@ -106,13 +106,20 @@ The split across 4 categories: 0-10, 11-50, 51-200 and 500+ employees was very s
 
 A large part of our respondents worked in the Engineering function at 30%. The split thereafter was 21% in Marketing, 17% as part of the Management of their respective companies, 15% in Product, 7% in HR, 7% in Strategy and finally, 2% in Sales.
 
+<style>
+@media only screen and (max-width: 600px) {
+  .partner-logo {
+    width:40px;
+  }
+}
+</style>
 <br>
 <center>
 <b>PARTNERS</b>
 <hr>
-<!--<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
-&emsp;&emsp;&emsp;-->
-<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+<a href="https://www.flexiple.com" target="_blank"><img class="partner-logo" src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
 &emsp;&emsp;&emsp;
-<a href="https://runningremote.com" target="_blank"><img src="/assets/running-remote.jpg" width=80/></a>
+<a href="https://weworkremotely.com" target="_blank"><img class="partner-logo" src="/assets/WWR.png" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://runningremote.com" target="_blank"><img class="partner-logo" src="/assets/running-remote.jpg" width=80/></a>
 </center>
