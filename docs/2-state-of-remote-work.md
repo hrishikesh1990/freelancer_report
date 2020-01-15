@@ -110,7 +110,9 @@ A large part of our respondents worked in the Engineering function at 30%. The s
 <center>
 <b>PARTNERS</b>
 <hr>
-<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
-&emsp;&emsp;&emsp;
+<!--<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;-->
 <a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://runningremote.com" target="_blank"><img src="/assets/running-remote.jpg" width=80/></a>
 </center>
