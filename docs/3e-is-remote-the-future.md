@@ -49,3 +49,12 @@ But the picture isn't just all rosy. There are pertinent problems around managin
 However, the good thing is that given the awareness of these problems, people are actively creating a knowledge base, sharing learnings on how to best tackle such problems - example, this guide 👻or GitLab's 3,000 page manual.
 
 So, yes! We believe remote will surely become the default mode of work in future. A huge chunk of indicators signal the movement of companies embracing remote on a wide scale. So it is time, you should prepare yourself to embrace remote 🙌
+
+<br>
+<center>
+<b>PARTNERS</b>
+<hr>
+<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+</center>

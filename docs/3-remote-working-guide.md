@@ -19,3 +19,12 @@ The challenges we are exploring are:
 -   [How to build culture in a remote team?](/3c-how-to-build-culture-in-a-remote-team)
 -   [Remote-first or Remote friendly](/3d-remote-first-or-remote-friendly)
 -   [Is remote the future?](/3e-is-remote-the-future)
+
+<br>
+<center>
+<b>PARTNERS</b>
+<hr>
+<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+</center>

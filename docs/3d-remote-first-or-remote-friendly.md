@@ -49,3 +49,12 @@ Building a remote-first culture, as the name suggests, involves designing proces
 > "The Retreats are huge. If we didn't do that, we would have lost a lot of people. But because they got to know me, my co-founder, their teams, the managers, developers, each other - it brings out a sense of belonging. It is only for a week, but it is really big!"
 >
 > **- Dave Nevogt, Co-founder & CEO of Hubstaff**
+
+<br>
+<center>
+<b>PARTNERS</b>
+<hr>
+<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+</center>

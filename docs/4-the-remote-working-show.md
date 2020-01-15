@@ -93,3 +93,12 @@ Being a manager of a remote team herself, Brie recognises the difficulty that co
 Brie also shared the challenges she faced while onboarding new employees and about the Buddy system at FlexJobs to ease new hires into the company. Additionally, being a mother of two, she appreciates the flexibility that her remote role offers, but also underlines the need to have a clear segregation between work and personal time.
 
 Brie can be followed on [Twitter](https://twitter.com/briewreynolds) or you connect with her on [LinkedIn](https://www.linkedin.com/in/brieweilerreynolds).
+
+<br>
+<center>
+<b>PARTNERS</b>
+<hr>
+<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+</center>

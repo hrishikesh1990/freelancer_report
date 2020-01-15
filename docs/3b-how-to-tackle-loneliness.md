@@ -55,3 +55,12 @@ At a personal level, to ensure that you continue to remain mentally super-fit, b
 > **- Almar Klein, Co-founder, TimeTurtle.app**
 
 -   **Networking events**: These could be events to build your skillsets or just a group of like-minded people getting together. Either way, it is a great outlet to breaking the monotony of working alone and also learning a few new things along the way!
+
+<br>
+<center>
+<b>PARTNERS</b>
+<hr>
+<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+</center>

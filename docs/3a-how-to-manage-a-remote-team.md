@@ -189,3 +189,12 @@ For many, this might be their first experience working remotely too. This might 
 For anyone to contribute to your company at their best capacity and more importantly to work in unison with the rest of the team, it is important that they believe in the company & its values while also being able to identify with the company's culture.
 
 Since, this is an important part in itself, we will cover the topic of building a culture in a remote team in a separate section.
+
+<br>
+<center>
+<b>PARTNERS</b>
+<hr>
+<a href="https://www.flexiple.com" target="_blank"><img src="/assets/flexiple-logo-monogram.jpg" width=80/></a>
+&emsp;&emsp;&emsp;
+<a href="https://weworkremotely.com" target="_blank"><img src="/assets/WWR.png" width=80/></a>
+</center>
