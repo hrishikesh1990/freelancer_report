@@ -49,7 +49,7 @@ So, what are the advantages of working asynchronously:
 
 > **Pro-tip:** One interesting nugget that Darren slipped in while discussing how they implement asynchronous through Slack, was that GitLab doesn’t subscribe to a tier that stores messages perpetually.<br><br>This forces everyone to document information that is critical to the project or a later time in the future in GitLab project management/ issues rather than relying on a short-term convenient option on Slack.<br><br>*Listen to this specific section here on the podcast:* [_Link_](https://soundcloud.com/remote-tools/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=49:28)<br><br>"We do not pay for a tier in Slack that would keep your messages perpetually and it’s intentional. We actually don’t want people defaulting to using Slack if they could convey project-related information through GitLab issues or merge requests which are much more permanent and are directly related to the work. From an efficiency standpoint, if you have solved something on slack then you have to translate that over to a merge request or to an issue to make something happen.”
 >
->**- Darren Murph, All Remote Culture Curator, Gitlab**
+>**- Darren Murph, Head of Remote, Gitlab**
 
 ### B) Focus on output
 
@@ -128,7 +128,7 @@ Overall documentation helps in:
 
 > “The biggest thing is documentation. And people like me coming in a few years into the company have a lot to be grateful for to our founders to think about documentation when the company was only 3 to 5 people. So, our handbook is 3000 pages long and it documents every process imaginable within GitLab front to back, even cultural processes. Everything is documented. And so, even people coming in now can look back at what was documented at the very beginning and it is very easy to get onboard instead of getting a hand me down of a hand me down of a hand me down.
 >
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+> **- Darren Murph, Head of Remote, Gitlab**
 >
 > *You can listen to this specific section here on the podcast:* [_Link_](https://soundcloud.com/remote-tools/the-remote-working-show-darren-murph-all-remote-culture-curator-at-gitlab#t=10:30)
 

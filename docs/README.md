@@ -58,7 +58,7 @@ Massive proliferation, improved reliability and easy access of these technologie
   <Tweet id="1170983210270019584" :options="{ conversation: 'none' }" />
 </ClientOnly>
 
-> "If your output as a business is purely digital and there are knowledge-based workers, there's no reason why you can. The way I like to say it is - if most of your people come to work everyday and open/look at their computer and hours later go home, they could have done that from anywhere."<br>**- Darren Murph, All Remote Culture Curator, Gitlab**
+> "If your output as a business is purely digital and there are knowledge-based workers, there's no reason why you can. The way I like to say it is - if most of your people come to work everyday and open/look at their computer and hours later go home, they could have done that from anywhere."<br>**- Darren Murph, Head of Remote, Gitlab**
 
 
 ## Exploring the Remote Work 2020 report

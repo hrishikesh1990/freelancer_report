@@ -36,7 +36,7 @@ Building a remote-first culture, as the name suggests, involves designing proces
 
 > “From the employer’s standpoint, two things come to mind. You need to be extremely intentional about informal communication. And this is a big one because when you are in a co-located setting, people tend to cross paths so they can more naturally develop relationships in and outside of work which generally helps the morale of the company. In a remote setting, you need to be intentional about this. So you need to weave things like coffee chats, group social calls, team social calls, company calls. You need to weave that into the culture and carve out time company-wide to make this a thing.”
 >
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+> **- Darren Murph, Head of Remote at Gitlab**
 
 2) **Default to videoconferencing for meetings**: Justine Jordan, Head of Marketing at HelpScout, put it beautifully in a report prepared by Trello. She essentially suggested that if even a single person is remote for a particular meeting, then everyone else also moves to a remote approach. This ensures a level playing field for all, where ideas and information can be consumed in an equal fashion.
 

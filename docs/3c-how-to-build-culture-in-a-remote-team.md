@@ -32,7 +32,7 @@ The document is meant to be inspirational and at the same time extremely actiona
 
 > "Transparency is one of our values. We have a handbook that is publicly accessibly - if we printed it, it would 3000 pages.
 >
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+> **- Darren Murph, Head of Remote at Gitlab**
 
 ## 2. Explicitly communicate it internally and publicly
 
@@ -62,7 +62,7 @@ In our chat with Darren from Gitlab, he mentioned that teams need to be intentio
 
 > "...you need to weave things like coffee chats, group social calls, team social calls, company calls. You need to weave that into the culture and carve out time company-wide to make this a thing. So every week I spend time talking to people about life not about work during work hours, because that is the only way to build relationships with people when you are all across the world.
 >
-> **- Darren Murph, All Remote Culture Curator at Gitlab**
+> **- Darren Murph, Head of Remote at Gitlab**
 
 Scott from Invision, did appreciate the need to be intentional about developing relationships, however, felt that such initatives could also make conversations quite awkward. He observed that initiatives that grew organically have done much better.
 
