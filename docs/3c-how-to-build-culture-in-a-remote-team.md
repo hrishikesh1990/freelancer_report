@@ -4,6 +4,8 @@ title: ➡️ Culture in a remote team
 
 ![](/assets/culture_in_a_remote_team.png)
 
+# Culture in a remote team
+
 Culture can make or break a team. However, being an abstract concept, the need to build a strong culture is often ignored. It usually signifies different things to each company, but at the core it is a bunch of values, which are either explicitly defined or implicitly followed, while working towards a specific goal. Culture generally has very little to do with an individual and is more about how a group of people perform together.
 
 While it is tough to generally infer the culture of team, it is easier in a co-located team. The way people to talk to one-another, their attire, the layout of the office, among a whole lot of other visual cues, give an individual a lot of inputs to understand the culture of the team. All of these cues are absent in a remote team.

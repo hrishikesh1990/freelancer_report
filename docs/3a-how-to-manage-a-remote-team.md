@@ -4,14 +4,16 @@ title: ➡️ Managing a remote team
 
 ![](/assets/managing_a_remote_team.png)
 
+# Managing a remote team
+
 So you have made the choice to build a remote team. As a consequence, you have been able to get a bunch of talented individuals distributed across a few countries 😎 . Now comes the difficult part of actually managing a brilliant team - while they might be good individual performers, you would like them to collaborate and become a great collective unit.
 
 A few critical factors need to be executed successfully for the overall remote initiative to yield the desired results. Let's get into each in detail:
 
 - [Communication](#_1-communication)
 - [Documentation](#_2-documentation)
-- [Onboarding](_3-onboarding)
-- [Culture](_4-culture)
+- [Onboarding](#_3-onboarding)
+- [Culture](#_4-culture)
 
 ## 1. Communication
 

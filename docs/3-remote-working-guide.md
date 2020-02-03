@@ -4,6 +4,8 @@ title: Remote Working Guide
 
 ![](/assets/remote_working_guide.png)
 
+# Remote Working Guide
+
 Remote work has numerous advantages. This guide isn't written to focus on the basics such as the upsides of remote work - those are fairly well-discussed.
 
 Remote work, however, is an art that is still being unravelled. There are questions to which there is still no right answer. Most leaders are learning on the go and could likely get a few things wrong. The critical thing though is to document those experiences so that others can learn from them. Most solutions are not a "one-size fits all", but at the same time they offer perspective that can then be adapted to a particular context.

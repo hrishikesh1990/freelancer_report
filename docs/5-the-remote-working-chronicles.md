@@ -4,6 +4,8 @@ title: The Remote Working Chronicles
 
 ![](/assets/the_remote_working_chronicles.png)
 
+# The Remote Working Chronicles
+
 ## #1: About cooking pasta, writing JavaScript and working remotely
 
 Francesco decided to pursue a remote career while in College itself. Passionate about cooking (everything mediterranean), he fell in love with Sicily, when he went there on a summer break, given the access to fresh ingredients for cooking and the gorgeous natural landscape.

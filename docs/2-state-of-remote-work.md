@@ -4,6 +4,8 @@ title: State of Remote Work 2020
 
 ![](/assets/state_of_remote_work.png)
 
+# State of Remote Work 2020
+
 While in the following sections, we try to propose some solutions to the various challenges of working remotely, a good place to start is to listen to the voices of the many remote workers who are already living this lifestyle.
 
 To this end, we reached out to 331 remote workers, who shared their thoughts around a multitude of topics. This included individuals from companies such as Invision, Scrapinghub, Flexjobs, Doist and Gitlab, as well as independent professionals.

@@ -4,6 +4,8 @@ title: ➡️ Battling loneliness
 
 ![](/assets/battling_loneliness.png)
 
+# Battling loneliness
+
 *"Remote work is for introverts as they don't like interacting with others anyway".* I have heard this from a few individuals. Nothing could be further from the truth 😷.
 
 <ClientOnly>

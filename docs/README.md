@@ -1,8 +1,10 @@
 ---
-title: Introduction
+title: Remote Work 2020 | Introduction
 ---
 
 ![](/assets/introduction.png)
+
+# Remote Work 2020 | Introduction
 
 Companies are always on the lookout for new levers to drive growth and profitability. In this context, innovation in talent management has always been amongst the most important levers. From 360-degree feedback in the 1950s, to offshoring business functions for cost savings in late 1990s, firms have constantly adapted themselves to the needs of the talent market. Now, it is time for them to embrace remote work wholeheartedly.
 

@@ -4,6 +4,8 @@ title: ➡️ Being remote-first
 
 ![](/assets/being_remote_first.png)
 
+# Being remote-first
+
 When I was first introduced to the concept of remote working, I never truly appreciated the various levels of remote that a company could adopt. Below is a graphic created by Buffer that tries to categorise the way a company could approach remote working.
 
 ![](https://storage.googleapis.com/slite-api-files-production/files/aeeaf8b8-7ec6-419d-a608-c3686ba0a890/image.png)
