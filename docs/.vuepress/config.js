@@ -84,7 +84,7 @@ module.exports = {
   },
   plugins: {
     "@vuepress/google-analytics": {
-      ga: "UA-127123211-4"
+      ga: "UA-127123211-3"
     },
     robots: {
       host: "https://remoteWork2020.remote.tools",
