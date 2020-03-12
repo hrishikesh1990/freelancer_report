@@ -71,15 +71,8 @@ module.exports = {
     smoothScroll: true,
     sidebar: [
       "/",
-      "2-state-of-remote-work",
-      "3-remote-working-guide",
-      "3a-how-to-manage-a-remote-team",
-      "3b-how-to-tackle-loneliness",
-      "3c-how-to-build-culture-in-a-remote-team",
-      "3d-remote-first-or-remote-friendly",
-      "3e-is-remote-the-future",
-      "4-the-remote-working-show",
-      "5-the-remote-working-chronicles"
+      "2-current-trends",
+      "3-why-should-you-hire-a-freelance-developer"
     ]
   },
   plugins: {
