@@ -80,11 +80,11 @@ module.exports = {
       ga: "UA-127123211-3"
     },
     robots: {
-      host: "https://remoteWork2020.remote.tools",
+      host: "https://remoteWork2020.com",
       allowAll: true
     },
     sitemap: {
-      hostname: "https://remoteWork2020.remote.tools"
+      hostname: "https://remoteWork2020.com"
     },
     'vuepress-plugin-nprogress':{}
   }
