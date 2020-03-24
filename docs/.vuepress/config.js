@@ -72,7 +72,11 @@ module.exports = {
     sidebar: [
       "/",
       "2-current-trends",
-      "3-why-should-you-hire-a-freelance-developer"
+      "3-why-should-you-hire-a-freelance-developer",
+      "4-how-much-does-it-cost-to-hire-a-developer",
+      "5-how-to-hire-a-freelance-software-developer",
+      "6-top-7-freelance-websites-to-hire-developers",
+      "7-how-to-choose-the-right-freelance-web-or-app-developer"
     ]
   },
   plugins: {
