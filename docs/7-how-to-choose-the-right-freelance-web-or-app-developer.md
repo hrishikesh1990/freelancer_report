@@ -8,6 +8,8 @@ Companies are increasingly turning to freelancers for the ability to get them on
 
 ![how-to-choose-web-developer.PNG](https://blog.flexiple.com/wp-content/uploads/2020/03/how-to-choose-web-developer-16x9.png)
 
+Source
+
 This makes it paramount to have a streamlined evaluation process as it helps in:
 
 1. Finding the best developers for the role
