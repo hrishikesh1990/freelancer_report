@@ -1,8 +1,8 @@
 ---
-title: The Most Comprehensive Freelance Guide
+title: The Most Comprehensive Guide to Hire Freelance Developers
 ---
 
-# The Most Comprehensive Freelance Guide
+# The Most Comprehensive Guide to Hire Freelance Developers
 
 ## Origins of freelance
 The first written reference of the word "freelance" can be traced to early 1800s in Sir Walter Scott's novel "Ivanhoe". A lord talks about his army of paid "free lances". The idea was of mercenaries who didn't have an affiliation to any nation but rather worked for an entity or a person who paid them the most.

@@ -1,13 +1,13 @@
 module.exports = {
-  title: 'Remote Work 2020',
-  description: "Your definitive guide to state of remote work and working remotely in 2020.",
+  title: 'Freelance Developer Hiring Guide',
+  description: "The Most Comprehensive Guide to Hire Freelance Developers",
   head: [
     [
       "link",
       {
         rel: "apple-touch-icon",
         sizes: "180x180",
-        href: "/assets/RT_Final_Logo.png"
+        href: "/assets/flexiple-favicon.png"
       }
     ],
     [
@@ -16,7 +16,7 @@ module.exports = {
         rel: "icon",
         type: "image/png",
         sizes: "32x32",
-        href: "/assets/RT_Final_Logo.png"
+        href: "/assets/flexiple-favicon.png"
       }
     ],
     [
@@ -25,7 +25,7 @@ module.exports = {
         rel: "icon",
         type: "image/png",
         sizes: "16x16",
-        href: "/assets/RT_Final_Logo.png"
+        href: "/assets/flexiple-favicon.png"
       }
     ],
     [
@@ -49,12 +49,12 @@ module.exports = {
   serviceWorker: true,
   themeConfig: {
     docsDir: "docs",
-    logo: "/assets/remote_work_2020.png",
-    mobileLogo: "/assets/RT_Final_Logo.png",
+    logo: "/assets/flexiple-developer-logo.png",
+    mobileLogo: "/assets/flexiple-favicon.png",
     nav: [
       {
-        text: "Remote Tools",
-        link: "https://remote.tools",
+        text: "Take me to Flexiple",
+        link: "https://flexiple.com",
         rel: "noopener"
       },
       {

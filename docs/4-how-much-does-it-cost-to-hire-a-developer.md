@@ -10,38 +10,39 @@ So, let’s get straight into it. Freelance software development typically has t
 
 ![Cost-to-hire-a-web-or-app-developer.PNG](https://blog.flexiple.com/wp-content/uploads/2020/03/Cost-to-hire-a-web-or-app-developer-16x9.png)
 
+Hence, it's a case of understanding which one would work better for your use-case and suit your exact needs. So, let's start by delving deeper into each of these.
 
 ## Costing model 1: Project-based compensation
 
-In project-based compensation (or) ‘Fixed Price’ compensation, you would be required to pay a fixed rate based on the estimates of the freelancer. The payment is due upon the successful and satisfactory completion of the project. This type of model works well for small startups where budget is a major constraint, and needs to be adhered to without fail.
+In project-based compensation (or) ‘Fixed Price’ compensation, you would need to pay a fixed rate (based on the estimates) to the freelancer. The payment is due upon the successful and satisfactory completion of the project. This type of model works well for small startups where budget is a major constraint, and where strict adherence to the budget is the number one priority.
 
-However, it depends heavily on the initial estimates of time that have been assumed. So, fixed price projects are seldom used for long-term projects which require flexibility and re-alignment.
+However, it depends heavily on the initial estimates, that have been finalised based on some assumptions. Hence, for long-term projects, which require flexibility and re-alignment during the course of the project, fixed price projects are seldom used.
 
 #### Advantages:
-* Suited for short-term projects where fast turnarounds are required and payments need to be processed fast
+* Suited for short-term projects which require fast turnarounds, and payments need to be processed fast
 
 * As the model suggests, you know your costs upfront
 
 #### Drawbacks:
 * Requires the initial estimates to be perfectly accurate for the engagement to run as expected. This is fairly difficult for long-term projects and software development in general.
 
-* Usually results in misalignment of goals between the freelancer and the company. The former is incentivised to work towards project completion rather than building the best product possible
+* Usually results in misalignment of goals between the freelancer and the company. ‘Project completion’ takes center stage, rather than the goal of building the best product possible
 
-* High failure rate due to: problems in estimates, tough deadlines, lack of flexibility in product specs once project is started, misalignment of goals between the two parties, among others.
+* Problems in estimates, tough deadlines, lack of flexibility in product specs, and misalignment of goals between the two parties, among others, can lead to a High failure rate
 
-What we have touched upon is that design and development projects require a certain degree of flexibility. This is required to refine the build and make changes along the way. In project-based compensation, it isn’t possible to achieve this due to its rigid nature.
+What we have touched upon is that design and development projects require a certain degree of flexibility. This flexibility is necessary to refine the build and make changes along the way. In project-based compensation, achieving this can be very hard, due to its rigid nature.
 
 It applies more so for long-term projects that are highly subjective in nature, and often open-ended in certain aspects. Hence, a time-based compensation model might be better suited to design and development projects – as is observed by its higher popularity in the domain.
 
 ## Costing model 2: Time-based compensation
-In the time-based compensation model, payments are made to the freelancer typically for the hours that they put in on your project. Of course, time-based can also be daily-/ weekly- (or) monthly-fee based in some cases. In such a model, you would be invoiced on regular intervals for the time that the freelancer has put in.
+In the time-based compensation model, you would pay the freelancer, typically, for the hours that they put in on your project. Of course, time-based can also be daily-/ weekly- (or) monthly-fee based in some cases. In such a model, you would be invoiced on regular intervals for the time that the freelancer has put in.
 
 This is more suited for long-term projects, due to more leeway being available in implementing changes as the project progresses.
 
 #### Advantages:
 * Greater degree of flexibility
 
-* Gives the developer freedom to devote time & energy in creating a quality product rather than being purely focused on meeting milestones and estimates at the cost of building a good product
+* Gives the developer freedom to devote time & energy in creating a quality product, rather than purely focusing on meeting milestones and estimates
 
 * Provides an opportunity for better communication throughout the project life-cycle, making it possible to share updates and align on objectives
 
@@ -54,7 +55,7 @@ This is more suited for long-term projects, due to more leeway being available i
 
 * The model, naturally, requires a reliable developer whose technical skills are excellent and is also generally trustworthy
 
-As can be concluded, a time-based compensation is the advised model of working. However, it does require a reliable, trustworthy and high-quality developer. A good place to find such developers is vetted freelance networks such as [Flexiple](https://flexiple.com/) and Toptal. Such platforms also have a risk-free trial period. This allows you to work with a developer for a week, and only pay if you’re satisfied.
+As can be concluded, time-based compensation is the advised model of working. However, it does require a reliable, trustworthy and high-quality developer. Vetted freelance networks such as [Flexiple](https://flexiple.com/) and Toptal are a good place to find such developers. Such platforms also have a risk-free trial period. This allows you to work with a developer for a week, and only pay if you’re satisfied.
 
 #### Hourly Rates
 
@@ -92,8 +93,8 @@ Brand names on a developer’s resume often are indicative of the quality of the
 This can be a reputed college where they studied (or) a popular tech company that they previously worked at. Companies treat these brand names as a proxy for the developer’s quality, and hence will be ready to pay a premium.
 
 #### 5. Geography
-With the living costs different across regions, the hourly rates for freelance web developers across geographies vary too. This can be seen in the hourly rates of a developer in Ukraine being considerably lower than those of a similarly-skilled developer present in the U.S. (where the living costs are much higher).
+With the living costs differing across regions, the hourly rates for freelance web developers across geographies also vary. An example of this would be: the hourly rates of a developer in Ukraine being considerably lower than those of a similarly-skilled developer present in the U.S. (where the living costs are much higher).
 
-On a parting note, below are the average hourly rates of freelance developers worldwide. The data has been aggregated over the past 4 years and categorised by geography:
+On a parting note, below are the average hourly rates of freelance developers worldwide. We’ve aggregated the data over the past 4 years, and categorised it by geography:
 
 ![Freelancer-hourly-rates-by-geography.PNG](https://blog.flexiple.com/wp-content/uploads/2020/03/Freelancer-hourly-rates-by-geography.png)
