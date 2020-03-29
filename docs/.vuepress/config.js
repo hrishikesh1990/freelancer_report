@@ -76,7 +76,8 @@ module.exports = {
       "4-how-much-does-it-cost-to-hire-a-developer",
       "5-how-to-hire-a-freelance-software-developer",
       "6-top-7-freelance-websites-to-hire-developers",
-      "7-how-to-choose-the-right-freelance-web-or-app-developer"
+      "7-how-to-choose-the-right-freelance-web-or-app-developer",
+      "8-how-to-manage-a-freelance-project"
     ]
   },
   plugins: {

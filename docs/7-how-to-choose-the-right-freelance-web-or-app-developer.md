@@ -2,11 +2,13 @@
 title: How to choose the right freelance web or app developer?
 ---
 
+![how-to-choose-the-right-freelance-web-or-app-developer.png](/assets/how-to-choose-the-right-freelance-web-or-app-developer.png)
+
 # How to choose the right freelance web or app developer?
 
 Companies are increasingly turning to freelancers for the ability to get them onboard quickly and also to hire for the skills that are highly aligned to job requirements. However, the number of freelancers is growing each year. This makes the task of choosing the right developer for your requirements extremely time and effort-intensive.
 
-![how-to-choose-web-developer.PNG](https://blog.flexiple.com/wp-content/uploads/2020/03/how-to-choose-web-developer-16x9.png)
+![how-to-choose-web-developer.PNG](/assets/introduction.png)
 
 Source
 

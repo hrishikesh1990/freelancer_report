@@ -2,6 +2,8 @@
 title: Why should you hire a freelance developer?
 ---
 
+![why-should-you-hire-a-freelance-developer.png](/assets/why-should-you-hire-a-freelance-developer.png)
+
 # Why should you hire a freelance developer?
 
 The importance of having the right team to set oneself up for success has been established time and time again. Top companies, big and small, consistently attribute success to their teams. It only makes sense then that firms everywhere spend an inordinate amount of time and money to build their dream teams.

@@ -1,6 +1,7 @@
 ---
 title: Current Trends
 ---
+![current-freelance-trends.png](/assets/current-freelance-trends.png)
 
 # Current Trends
 

@@ -2,6 +2,8 @@
 title: The Most Comprehensive Guide to Hire Freelance Developers
 ---
 
+![freelancer-guide-introduction.png](/assets/freelancer-guide-introdution.png)
+
 # The Most Comprehensive Guide to Hire Freelance Developers
 
 ## Origins of freelance

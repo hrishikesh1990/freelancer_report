@@ -2,6 +2,8 @@
 title: Top 7 Freelance Websites to Hire Developers For Your Team
 ---
 
+![top-7-freelance-websites-to-hire-developers.png](/assets/top-7-freelance-websites-to-hire-developers.png)
+
 # Which are the best websites to hire freelance developers?
 
 Digitization and the advent of the freelance economy have changed the way businesses work. A [2018 Morgan Stanley report](https://www.morganstanley.com/ideas/freelance-economy) points out that the ability to work in the cloud and the advent of freelancing platforms have opened up new channels for companies to find better talent such as online freelance marketplaces.

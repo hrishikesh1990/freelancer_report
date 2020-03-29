@@ -2,6 +2,8 @@
 title: How much does it cost to hire a web or app developer?
 ---
 
+![how-much-does-it-cost-to-hire-a-developer.png](/assets/how-much-does-it-cost-to-hire-a-developer.png)
+
 # How much does it cost to hire a web or app developer?
 
 Now, you have decided to work with a freelance developer. If not, you should definitely read our article about the [reasons to hire a freelance developer](https://blog.flexiple.com/why-should-you-hire-a-freelance-developer/), before you proceed. However, the next challenge you face is to understand how much it would cost to hire a web or app developer.

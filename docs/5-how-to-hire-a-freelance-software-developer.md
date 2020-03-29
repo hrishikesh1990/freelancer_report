@@ -2,6 +2,8 @@
 title: 8 Ways to Hire a Freelance Software Developer for Your Requirements
 ---
 
+![how-to-hire-a-freelance-software-developer.png](/assets/how-to-hire-a-freelance-software-developer.png)
+
 # How to hire a freelance software developer?
 
 Once you have decided to hire a freelance software developer, the next step is to start finding suitable candidates. With the rise in popularity of freelancing as a career among today’s IT professionals, there are a variety of places where you can hire freelance developers from.
