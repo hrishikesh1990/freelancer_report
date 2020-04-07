@@ -131,7 +131,7 @@ It’s free for both business owners (clients) and freelancers.
 * Free
 * Suitable for small work
 
-#### Cons:s
+#### Cons:
 * A relatively small pool of freelancers
 * Unreliable job sources
 * No vetting process
