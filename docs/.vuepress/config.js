@@ -48,6 +48,7 @@ module.exports = {
   ],
   serviceWorker: true,
   themeConfig: {
+    search: false,
     docsDir: "docs",
     logo: "/assets/flexiple-developer-logo.png",
     mobileLogo: "/assets/flexiple-favicon.png",

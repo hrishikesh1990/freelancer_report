@@ -23,9 +23,6 @@ border-width:2px;
 border-style:solid;
 border-radius:4px;
 }
-#blue-text {
-color:rgb(95, 101, 211);
-}
 .button {
 padding: 10px 20px 10px 20px;
 border-radius:4px;

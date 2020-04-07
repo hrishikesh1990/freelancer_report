@@ -31,6 +31,9 @@
       <OutboundLink/>
     </a>
 
+    <div class="nav-item">
+      <NavButton />
+    </div>
     <!-- newsletter dropdown -->
     <!--<div class="nav-item">
       <Dropdown trigger-label="Subscribe">
@@ -42,6 +45,7 @@
 
 <script>
 import ConvertKit from '@theme/components/ConvertKit.vue';
+import NavButton from '@theme/components/NavButton.vue';
 import DropdownLink from '@parent-theme/components/DropdownLink.vue'
 import Dropdown from '@theme/components/Dropdown.vue'
 import { resolveNavLinkItem } from '@parent-theme/util'
@@ -53,6 +57,7 @@ export default {
     Dropdown,
     DropdownLink,
     NavLink,
+    NavButton,
   },
 
   computed: {
@@ -161,5 +166,4 @@ export default {
   .nav-item > a:not(.external)
     &:hover, &.router-link-active
       margin-bottom -2px
-      border-bottom 2px solid lighten($accentColor, 8%)
 </style>
