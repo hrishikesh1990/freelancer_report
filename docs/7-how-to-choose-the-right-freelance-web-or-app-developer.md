@@ -8,10 +8,6 @@ title: How to choose the right freelance web or app developer?
 
 Companies are increasingly turning to freelancers for the ability to get them onboard quickly and also to hire for the skills that are highly aligned to job requirements. However, the number of freelancers is growing each year. This makes the task of choosing the right developer for your requirements extremely time and effort-intensive.
 
-![how-to-choose-web-developer.PNG](/assets/introduction.png)
-
-Source
-
 This makes it paramount to have a streamlined evaluation process as it helps in:
 
 1. Finding the best developers for the role
@@ -19,6 +15,8 @@ This makes it paramount to have a streamlined evaluation process as it helps in:
 3. Decreasing drop-offs during the process
 
 To comprehensively evaluate and choose freelance developers, a robust process needs to be designed. Let’s delve into why this is critical.
+
+![how-to-choose-web-developer.PNG](https://blog.flexiple.com/wp-content/uploads/2020/03/how-to-choose-web-developer-16x9.png)
 
 ## Need for a holistic evaluation
 Firstly, we need to recognise the use-case for hiring a freelance developer. Typically and ideally, you are ideally looking for someone who is an expert in their field. They should be able to ramp up quickly, effectively understand what your team is trying to achieve, and then slot in seamlessly. Further, they should be able to communicate well, be proactive enough to foresee problems, and take independent decisions while working remotely.
