@@ -22,10 +22,10 @@
       <div>
         Made with ❤️ by
         <a
-          href="https://remote.tools"
+          href="https://flexiple.com"
           rel="noopener"
           target="_blank"
-        >Remote Tools</a>.
+        >Flexiple</a>.
       </div>
     </footer>
   </main>
