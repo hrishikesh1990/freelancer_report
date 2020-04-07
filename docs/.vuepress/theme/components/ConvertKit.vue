@@ -1,8 +1,8 @@
 <template>
 <div class="hire-freelancer">
-<b>Hire the <span id="blue-text">Top 1%</span> Freelance Developers and Designers</b>
+<b>Hire the <span>Top 1%</span> Freelance Developers and Designers</b>
 <br><br>
-<a href="https://flexiple.com" target="_blank">
+<a href="https://flexiple.com/customer-form?utm_source=freelancer-report" target="_blank">
 <button class='button'><span><b>GET STARTED</b></span></button>
 </a>
 </div>
@@ -15,8 +15,9 @@ export default {
 
 <style>
 .hire-freelancer {
-background:#fff; clear:left; font:24px Helvetica,Arial,sans-serif;
+background:rgb(95, 101, 211); clear:left; font:24px Helvetica,Arial,sans-serif;
 display:block; position:relative; text-align:center; padding:50px 0px 50px 0px;
+color:white;
 border-color:rgb(95, 101, 211);
 border-width:2px;
 border-style:solid;
