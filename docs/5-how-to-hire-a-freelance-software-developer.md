@@ -10,17 +10,17 @@ Once you have decided to hire a freelance software developer, the next step is t
 
 ![How-to-hire-a-freelance-software-developer.PNG](https://blog.flexiple.com/wp-content/uploads/2020/02/How-to-hire-a-freelance-software-developer-16x9.png)
 
-1. While a lot of solutions exist, you have to be sure of the use-case that you are going to solve. In order to select the optimal solution, some of the questions that you have to answer are:
+While a lot of solutions exist, you have to be sure of the use-case that you are going to solve. In order to select the optimal solution, some of the questions that you have to answer are:
 
-2. Have you decided on a screening and evaluation process?
+1. Have you decided on a screening and evaluation process?
 
-3. How much bandwidth can you devote to evaluating developers?
+2. How much bandwidth can you devote to evaluating developers?
 
-4. Are you looking for a quick fix, or do you have the time to carry out an elaborate hiring strategy?
+3. Are you looking for a quick fix, or do you have the time to carry out an elaborate hiring strategy?
 
-Answering such questions will help you select which source(s) to pursue to find and hire software developers. Some are better than others in terms of the quality of developers, some offer quicker turnarounds, and others are lighter on your wallet.
+Answering such questions will help you select which source(s) to pursue to find and hire software developers. Some are better than others in terms of the quality of developers, some offer quicker turnarounds, and others are lighter on your wallet. Each comes with its own nuances.
 
-Each comes with its own nuances. It’s, therefore, important to understand what each method can offer and its benefits/drawbacks, to figure out which one(s) would be the best to pursue.
+So, let's understand what each method can offer and its benefits/drawbacks, to help you with this decision.
 
 
 ## Hire a referral
@@ -29,18 +29,18 @@ Hiring a referral from a trusted individual in your network is one of the best w
 #### The process to find and hire referrals
 1. <u>Scan your network</u>: Firstly, you need to scan your network for industry experts. Immediately, make a list of the people whom you’ll be reaching out to.
 
-2. <u>Reach out proactively</u>: Do not hesitate to reach out to experts in your field. Try different channels like social media, email, phone, or even hop over to their office if possible.
+2. <u>Reach out proactively</u>: Do not hesitate to reach out to experts in your field. Try different channels like social media, email, or phone.
 
 3. <u>Prepare a brief JD</u>: You need to let them know exactly what you’re looking for in a developer. One way to do that would be to prepare a simple JD that you can hand out (or) attach in emails. Don’t go overboard with the details.
 
-4. <u>Offer monetary (or) non-monetary incentives</u>: To make it worth their time, you can also offer incentives.
+4. <u>Offer monetary (or) non-monetary incentives</u>: To make it worth their time, you can also incentivize them. Be judicious about this though.
 
 5. <u>Use LinkedIn</u>: LinkedIn is a great tool to keep track of the entire process and makes it really easy to start a professional conversation with a large audience.
 
 #### Pros:
 * High credibility of the source
 
-* Greater reliability of the freelancer
+* As a result, greater reliability of the freelancer
 
 * Gives you access to an evaluation of the developer’s performance under actual working conditions, which is invaluable
 
@@ -63,12 +63,12 @@ With the increasing number of freelance software developers every year, it is di
 Vetted freelance networks represent one of the best sources to find quality developers. Such platforms rigorously and holistically screen their developers. This involves going beyond the CV to gauge their abilities, through a combination of a specially-designed screening process and continuous project-based evaluation.
 
 #### The process to hire software developers using vetted freelance networks
-Premium Freelance networks have in-house experts to help you find the best candidate. Hence, you only need to share your requirements with them. This can be done through online forms and then via a phone call/video call – allowing them to take care of the rest.
+Premium freelance networks have in-house experts to help you find the best candidate. Hence, you only need to share your requirements with them. This can be done through online forms and then via a phone call/video call – allowing them to take care of the rest.
 
 #### Pros:
 * Freelancers are evaluated on a multitude of parameters and therefore possess high technical proficiency, good communication skills and the ability to deliver great work under pressure
 
-* In-house experts offer personalised matching to ensure that you get the best person for the job without spending any time shortlisting profile at your end
+* In-house experts offer personalised matching to ensure that you get the best person for the job without spending any time shortlisting profiles at your end
 
 * These networks also ensure that these developers align with the culture of your company
 
@@ -96,7 +96,7 @@ Premium Freelance networks have in-house experts to help you find the best candi
 ## Pure freelance marketplaces
 Pure freelance marketplaces work like job portals. You post a job and will then receive applications from the hundreds of freelancers listed on the platform. While this is great for generating volume on your applications, you will have to spend significant time in screening candidates as there is no vetting process that is carried out by such platforms.
 
-This is suitable for small to medium work, where the main concern is not quality but keeping costs down. To help you select the right fit, some platforms have reviews and ratings of freelancers based on their performance on the platform.
+This is suitable for small to medium work, where the main concern is not quality but keeping costs down. To help you select the right fit, these platforms have reviews and ratings of freelancers based on their performance on the platform.
 
 #### The process to hire software developers from pure freelance marketplaces
 1. <u>Sign up on the platform</u>: Firstly, you would need to create a profile on their platform in order to list a job.
@@ -117,8 +117,7 @@ This is suitable for small to medium work, where the main concern is not quality
 
 * You have to spend a lot of time and effort into screening
 
-* It’s very hard to ascertain a candidate’s cultural fit for your company (there’s not enough data to make a subjective decision)
-Reviews and ratings on a freelancer’s profile can be easily manipulated, and are hence, invalidated
+* It’s very hard to ascertain a candidate’s cultural fit for your company (there’s not enough data to make a subjective decision). Reviews and ratings on a freelancer’s profile can be easily manipulated, and are hence, invalidated
 
 #### What will it cost?
 * Some platforms demand commissions from companies posting jobs, while some take their cut from the freelancer’s share
@@ -168,26 +167,26 @@ Also, there’s usually a job listing page on such forums, which provides an org
 
 
 ## Devshops/ Staffing agencies
-While devshops provide end-to-end solutions for your development needs, there are also firms that allow you to hire individuals separately, and not as a team. You get to keep complete control of your entire development process along with access to additional manpower to help you in your build.
+While devshops provide end-to-end solutions for your development needs (i.e. you can outsource your needs entirely), there are also firms that allow you to hire individuals separately. You get to keep complete control of your entire development process along with access to additional manpower to help you in your build.
 
 #### The process to hire software developers at devshops
 1. <u>Search for the top solution providers</u>: You can find reviews of the best software outsourcing firms on Clutch.co and other similar sites.
 
 2. <u>Get in contact</u>: Fill a form on their websites OR Reach out to their managers/ customer support to explain your requirements. You can then work with them to understand the best solution for your needs.
 
-3. <u>Hire available developers</u>: If you’ve got the blueprint for your build laid out, you can request to hire their developers on a contractual basis.
+3. <u>Hire available developers</u>: If you’ve got the blueprint for your build laid out, you can make a request to hire their developers on a contractual basis.
 
 #### Pros:
-* There are certain high-quality dev shops that can promise a great quality of talent
+* Certain high-quality dev shops do exist that can deliver great quality of talent
 
 * Access to insights of the developers’ technical proficiency and ability to work
 
 * You can hire a team of developers if needed
 
 #### Cons:
-* High commission rates because they have to keep the developers on the payroll irrespective of projects availability
+* High commission rates because they have to keep the developers on their payroll irrespective of project availability
 
-* Since there would be two entities requiring the developers’ time, it might get tricky to work smoothly
+* Since there would be two entities requiring the developers’ time, it might be tricky to ensure seamless work
 
 * There could be cases of developers working on multiple projects at the same time
 
@@ -203,7 +202,7 @@ However, there is absolutely no pre-screening, and you have to be sure of your s
 #### The process to hire software developers through Job Boards
 1. <u>Sign up</u>: Firstly, you’ll be required to sign up and create yours, as well as your company’s profile on the platform.
 
-2. <u>Post your job</u>: The required details are usually asked by the platform in a standard format. You’ll have to add relevant details like the job description, skills to have, location, pay offered, etc.
+2. <u>Post your job</u>: The required details are usually asked by the platform in a standard format. You’ll have to add relevant details like the job description, skills required, location, pay offered, etc.
 
 3. <u>Choose your plan</u>: These platforms typically charge for each job post made. You can choose the appropriate plan for your requirements.
 
@@ -215,9 +214,9 @@ However, there is absolutely no pre-screening, and you have to be sure of your s
 #### Cons:
 * No screening offered and hence, there’s no guarantee of the quality of applications you’ll receive
 
-* Executing your own evaluation process requires a dedicated effort from you, that could take anything from a few weeks to several months
+* Executing your own evaluation process requires a dedicated effort from you, that could take anywhere from a few weeks to several months
 
-* Up-front fee rather than being based on conversion
+* Upfront fee rather than being based on conversion
 
 #### What will it cost?
 * Such Job boards charge a fee prior to posting a job
@@ -231,7 +230,7 @@ However, there is absolutely no pre-screening, and you have to be sure of your s
 
 
 ## Google Search
-Since some of the top developers also have their own portfolio websites and work towards ranking well on Google searches, a simple search on Google can lead to you a quality developer. However, often, you’ll have to go past the first few pages in your search results to start getting portfolio websites of individual freelancers.
+Since some of the top developers also have their own portfolio websites and work towards ranking well on Google searches, a simple search on Google can lead you to a quality developer. However, often, you’ll have to go past the first few pages in your search results to start getting portfolio websites of individual freelancers.
 
 You can also try searching for online content in the form of blogs relevant to your requirements. Such blogs can lead you to the developer who authored it – as some of the top developers write long-form blogs to showcase their expertise and broaden their reach.
 
@@ -246,6 +245,8 @@ You can also try searching for online content in the form of blogs relevant to y
 * Easily accessible
 
 #### Cons:
+* Quality of the individual still has to be ascertained by you through a screening process
+
 * No guarantee of conversions
 
 #### What will it cost?
@@ -253,16 +254,16 @@ You can also try searching for online content in the form of blogs relevant to y
 
 
 ## LinkedIn
-You can use almost any social network to put up your job posting and reach a wide audience, but the best is LinkedIn. LinkedIn on its own offers a great platform to reach out to your professional network, which is the best way to start the process.
+You can use almost any social network to put up your job posting and reach a wide audience, but the best is clearly, LinkedIn. LinkedIn on its own offers a great platform to reach out to your professional network, which is the best way to start the process.
 
 You could also put up a job posting on its ‘Jobs’ page. The extra features that LinkedIn Premium offers are helpful and make the process easier and much faster.
 
 #### The process to hire software developers on LinkedIn
 1. <u>List your job</u>: Use LinkedIn’s ‘Jobs’ page to list your job. You’ll be asked to answer a few questions to help categorize the type of applicants.
 
-2. <u>Provide a JD</u>: Be sure to include a detailed job description to encourage only the suitable candidates to apply.
+2. <u>Provide a JD</u>: Surely include a detailed job description to encourage only the suitable candidates to apply.
 
-3. <u>Put up a corresponding post</u>: You can also put up a post asking for applications from your followers and their connects, and link your listing on the ‘Jobs’ page.
+3. <u>Put up a corresponding post</u>: You can also put up a post asking for applications from your followers and their connects. You can add a link of your 'Jobs listing' to the post.
 
 4. <u>Asking for referrals</u>: You can put up similar posts asking for referrals from your connects. If you get decent engagement on it (i.e. likes/comments), you can reach a very wide audience, also comprising of your connections’ followers.
 
@@ -276,7 +277,7 @@ You could also put up a job posting on its ‘Jobs’ page. The extra features t
 #### Cons:
 * No guarantee of the quality of the applicants
 
-* Most LinkedIn profiles are too vague to draw conclusions about their technical ability
+* Many LinkedIn profiles are too vague to draw conclusions about their technical ability
 
 * You will receive a lot of non-relevant applications
 
