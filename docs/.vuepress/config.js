@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Freelance Developer Hiring Guide',
-  description: "The Most Comprehensive Guide to Hire Freelance Developers",
+  description: "The Ultimate Guide to Hire Freelance Developers",
   head: [
     [
       "link",

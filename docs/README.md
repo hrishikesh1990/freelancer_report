@@ -1,10 +1,10 @@
 ---
-title: The Most Comprehensive Guide to Hire Freelance Developers
+title: The Utimate Guide to Hire Freelance Developers
 ---
 
 ![freelancer-guide-introduction.png](/assets/freelancer-guide-introdution.png)
 
-# The Most Comprehensive Guide to Hire Freelance Developers
+# The Ultimate Guide to Hire Freelance Developers
 
 ## Origins of freelance
 The first written reference of the word "freelance" can be traced to early 1800s in Sir Walter Scott's novel "Ivanhoe". A lord talks about his army of paid "free lances". The idea was of mercenaries who didn't have an affiliation to any nation but rather worked for an entity or a person who paid them the most.
@@ -15,7 +15,7 @@ Clearly, the usage of freelancers (or "free lances") is not new. If you were to 
 Of course, instead of being mercenaries without an allegiance to any single nation, modern freelancers have taken up less violent skills, and are defined by the concept of not being bound to a particular company.
 
 
-## Most Comprehensive Freelance Guide
+## Ultimate Freelance Guide
 In this guide, we intend to shed light upon every aspect of hiring a freelancer, but with a particular focus on freelance developers. To make it a coherent read, we have covered each topic in detail and in a specific sequence as listed below:
 
 * [Current Trends in the Freelance Market](/2-current-trends.md)
