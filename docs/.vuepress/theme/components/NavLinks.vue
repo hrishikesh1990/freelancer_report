@@ -6,7 +6,7 @@
     <!-- newsletter dropdown -->
     <div class="nav-item">
       <Dropdown trigger-label="Subscribe to Newsletter">
-        <ConvertKit />
+        <Subscribe />
       </Dropdown>
     </div>
 
@@ -46,6 +46,7 @@
 
 <script>
 import ConvertKit from '@theme/components/ConvertKit.vue';
+import Subscribe from '@theme/components/Subscribe.vue';
 import NavButton from '@theme/components/NavButton.vue';
 import DropdownLink from '@parent-theme/components/DropdownLink.vue'
 import Dropdown from '@theme/components/Dropdown.vue'
@@ -59,6 +60,7 @@ export default {
     DropdownLink,
     NavLink,
     NavButton,
+    Subscribe,
   },
 
   computed: {
