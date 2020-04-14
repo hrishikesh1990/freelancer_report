@@ -6,13 +6,13 @@ title: Why should you hire a freelance developer?
 
 # Why should you hire a freelance developer?
 
-The importance of having the right team to set oneself up for success has been established time and time again. Top companies, big and small, consistently attribute success to their teams. It only makes sense then that firms everywhere spend an inordinate amount of time and money to build their dream teams.
+To set oneself up for success, the importance of having the right team has been established time and time again. Top companies, big and small, consistently attribute success to their teams. It only makes sense then that firms everywhere spend an inordinate amount of time and money to build their dream teams.
 
 Clearly, it’s not disputed that assembling the right team is critical to achieving goals. The impact of having an in-house team v/s hiring freelance developers, though, isn’t debated as much as it should.
 
-In recent years, this has changed though. Freelancing and remote working have caught on to the imagination of not only the forward-thinking startups but also the visionary corporations that are constantly on the lookout to find the new lever of growth. And rightly so, as the benefits that they offer are too good to ignore.
+However, in recent years, this has changed. Freelancing and remote working have caught on to the imagination of not only the forward-thinking startups but also the visionary corporations that are constantly on the lookout to find the new lever of growth. And rightly so, as the benefits that they offer are too good to ignore.
 
-Below we look at a few of the reasons why hiring and working with full-time employees is limiting for some companies:
+Below we look at a few of the reasons why hiring and working with full-time employees can be limiting for some companies:
 
 ## The problem with in-house employees
 
@@ -34,7 +34,7 @@ Talent managers and recruiters cite a large portion of resumes filled with job s
 
 ### 3. Not enough flexibility
 
-Often times, situations arise where the team has to be scale fast to solve a particular problem, owing to the lack of relevant expertise in the in-house team. In such cases, going through the painstaking process of hiring a full-time employee doesn’t make sense.
+Often times, situations arise where the team has to be scaled fast to solve a particular problem, owing to the lack of relevant expertise in the in-house team. In such cases, going through the painstaking process of hiring a full-time employee doesn’t make sense.
 
 Such an individual’s expertise is usually only required in the short-term. So, once the particular task is completed, companies can’t afford to have them on the payroll without further work. Hence, some companies prefer to have flexibility in terms of hiring.
 
@@ -50,13 +50,14 @@ With platforms such as [Flexiple](https://flexiple.com/) providing not only ve
 
 ## Benefits of hiring freelance developers
 
-Having understood why full-time employees might not be the right solution every time, let’s understand the benefits of hiring a freelance developer and use-cases they solve:
+Having understood why full-time employees might not be the right solution every time, let’s understand the benefits of hiring a freelance developer and the use-cases they solve:
 
 ### 1. Bring about fast turnarounds – Meeting product goals
 
 For the 3-4 months that it takes to hire permanent employees, a firm’s work can’t be stopped or postponed. Hiring a freelancer developer to augment the team in such a setting ensures that the targets and deadlines don’t have to be compromised upon.
 
-Vetted freelancing platforms enable companies to hire freelancers within a week or two. Additionally, the personalised recommendations by experts reduce the chance of a bad hire and the need for iterations. Quality freelancers mapped correctly to requirements hit the ground running requiring no training and with very low ramp up time.
+Vetted freelancing platforms enable companies to hire freelancers within a week or two. Additionally, the personalised recommendations by experts reduce the chance of a bad hire and the need for iterations. Quality freelancers mapped correctly to requirements hit the ground running, requiring no training and very low ramp up time.
+
 
 ### 2. Niche technology – bringing in experts when they’re needed
 
@@ -68,9 +69,15 @@ Therefore, hiring a freelancer who is an expert in the field and has the relevan
 
 Hiring freelancers allows the company to have a more flexible team, one which can be scaled fast and modified when the need arises. This equips them to easily adapt to the changing needs of the market.
 
-This is invaluable to smaller companies that are looking to grow fast. Freelance developers allow them to keep up the pace on their build, while not having to take up the additional costs of hiring permanent employees, covered in the next point.
+This is invaluable to smaller companies that are looking to grow fast. Freelance developers allow them to keep up the pace on their build, while not having to take up the additional costs of hiring permanent employees. Our next point elaborates this concept.
 
-### 4. Reduced overhead costs
+### 4. Instantly increase the team’s bandwidth
+
+Certain times might call for an immediate need for more manpower. This includes situations when the team’s bandwidth has been maxed out, with opportunities being missed if there’s a long delay in getting more team members in.
+
+Hiring freelance developers for such situations can prove to be a great solution. Freelancers can start work almost immediately, resulting in fast turnarounds. This further allows them to act as extensions to the in-house team and ensure the pace is kept up through the high demand.
+
+### 5. Reduced overhead costs
 
 There are a lot of factors that influence freelancer rates including:
 
@@ -81,13 +88,7 @@ There are a lot of factors that influence freelancer rates including:
 
 While hiring a freelance developer may or may not be cheaper than hiring a permanent employee, it can definitely save overhead costs like benefits, office space, and supplies.
 
-That too in a volatile funding climate, freelancers can be a boon. Sure, companies might need to take tough decisions such as a hiring freeze in some situations. Using freelancers to supplement the team with freelancers can be the solution to keep up the growth.
-
-### 5. Instantly increase the team’s bandwidth
-
-Other times might call for an immediate need for more manpower. This includes situations when the team’s bandwidth has been maxed out, with opportunities being missed if there’s a long delay in getting more team members in.
-
-Hiring freelance developers for such situations can prove to be a great solution. Freelancers can start work almost immediately, resulting in fast turnarounds. This further allows them to act as extensions to the in-house team and ensure the pace is kept up through the high demand.
+Especially, in a volatile funding climate, freelancers can be a boon. To adapt to a tough market, companies might need to take challenging decisions such as a hiring freeze. Using freelancers to supplement the team with freelancers can be the solution to keep up the growth.
 
 ### 6. Take advantage of worldwide talent
 

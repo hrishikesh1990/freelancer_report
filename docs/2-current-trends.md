@@ -7,7 +7,7 @@ title: Current Trends
 
 In the following sections, we try to lay down the entire process from the reason to hire a freelancer to how you should go about it. However, a good place to start is to appreciate the scale at which freelancing is currently already present in the world.
 
-So, let's delve into what top leaders have to say about freelancing and also some numbers that highlight the current trends.
+So, let's delve into some numbers that highlight the current trends in the world of freelancing.
 
 
 ## The Freelance Revolution in Numbers
@@ -32,7 +32,7 @@ Source: [Bloomberg](https://www.bloomberg.com/news/articles/2018-07-25/inside-go
 
 **3. Countries with lower domestic work opportunities are seeing a surge in freelance professionals**
 
-Freelancing is providing a viable career path for skilled professionals in regions where domestic opportunities are low - owing to the rise of remote teams. Pakistan, Ukraine, Philippines, India, & Bangladesh rank in the Top 10 countries with the fastest-growing earnings for freelancers.
+Due to the rise in adoption of remote teams, freelancing is providing a viable career path for skilled professionals in regions where domestic opportunities are low. Pakistan, Ukraine, Philippines, India, & Bangladesh rank in the Top 10 countries with the fastest-growing earnings for freelancers.
 
 ![Slide2.JPG](https://storage.googleapis.com/slite-api-files-production/files/1d983cce-bb35-43a3-bc87-1eaa5c2fce1e/Slide2.JPG)
 Source: [CNBC](https://www.cnbc.com/2019/08/07/the-10-countries-with-the-fastest-growing-earnings-for-freelancers.html)

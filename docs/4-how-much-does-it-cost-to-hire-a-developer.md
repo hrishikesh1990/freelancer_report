@@ -18,7 +18,7 @@ Hence, it's a case of understanding which one would work better for your use-cas
 
 In project-based compensation (or) ‘Fixed Price’ compensation, you would need to pay a fixed rate (based on the estimates) to the freelancer. The payment is due upon the successful and satisfactory completion of the project. This type of model works well for small startups where budget is a major constraint, and where strict adherence to the budget is the number one priority.
 
-However, it depends heavily on the initial estimates, that have been finalised based on some assumptions. Hence, for long-term projects, which require flexibility and re-alignment during the course of the project, fixed price projects are seldom used.
+However, it depends heavily on the initial estimates that have been finalised based on some assumptions. Hence, for long-term projects, which require flexibility and re-alignment during the course of the project, fixed price projects are seldom used.
 
 #### Advantages:
 * Suited for short-term projects which require fast turnarounds, and payments need to be processed fast
@@ -34,7 +34,8 @@ However, it depends heavily on the initial estimates, that have been finalised b
 
 What we have touched upon is that design and development projects require a certain degree of flexibility. This flexibility is necessary to refine the build and make changes along the way. In project-based compensation, achieving this can be very hard, due to its rigid nature.
 
-It applies more so for long-term projects that are highly subjective in nature, and often open-ended in certain aspects. Hence, a time-based compensation model might be better suited to design and development projects – as is observed by its higher popularity in the domain.
+It applies more so for long-term projects that are highly subjective in nature and often open-ended in certain aspects. Hence, a time-based compensation model might be better suited to design and development projects – evidenced by its higher popularity in the domain.
+
 
 ## Costing model 2: Time-based compensation
 In the time-based compensation model, you would pay the freelancer, typically, for the hours that they put in on your project. Of course, time-based can also be daily-/ weekly- (or) monthly-fee based in some cases. In such a model, you would be invoiced on regular intervals for the time that the freelancer has put in.
@@ -69,7 +70,7 @@ Specifically for software development projects, where the outcomes are objective
 These are the broad factors that have an impact on freelance developer rates:
 
 #### 1. Demand for the skill in the market
-The demand for a particular technology heavily influences the price that developers can charge for it. Hence, developers who are skilled in popular technologies of the time, typically command higher rates.
+The demand for a particular technology heavily influences the price that developers can charge for it. Hence, developers who are skilled in popular technologies of the time typically command higher rates.
 
 A good example to cite here would be the exponential rise of ReactJS in the years 2015/16. Companies began rapidly adopting it, with burgeoning demand leading to the disproportionate increase in hourly rates for developers skilled in ReactJS.
 
