@@ -36,14 +36,12 @@ module.exports = {
       }
     ],
     [
-      'script', {}, `
-        (function(e,a){
-            var t,r=e.getElementsByTagName("head")[0],c=e.location.protocol;
-            t=e.createElement("script");t.type="text/javascript";
-            t.charset="utf-8";t.async=!0;t.defer=!0;
-            t.src=c+"//front.optimonk.com/public/"+a+"/js/preload.js";r.appendChild(t);
-        })(document,"94249");
-    `
+      'script',
+      {
+        src: "https://cdn.popt.in/pixel.js?id=b9e5b05be3c6d",
+        id: "pixel-script-poptin",
+        async: "true"
+      }
     ]
   ],
   serviceWorker: true,
