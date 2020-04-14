@@ -3,8 +3,15 @@
     class="nav-links"
     v-if="userLinks.length || repoLink"
   >
+    <!-- newsletter dropdown -->
+    <div class="nav-item">
+      <Dropdown trigger-label="Subscribe to Newsletter">
+        <ConvertKit />
+      </Dropdown>
+    </div>
+
     <!-- user links -->
-    <div
+    <!--<div
       class="nav-item"
       v-for="item in userLinks"
       :key="item.link"
@@ -17,7 +24,7 @@
         v-else
         :item="item"
       />
-    </div>
+    </div>-->
 
     <!-- repo link -->
     <a
@@ -34,12 +41,6 @@
     <div class="nav-item">
       <NavButton />
     </div>
-    <!-- newsletter dropdown -->
-    <!--<div class="nav-item">
-      <Dropdown trigger-label="Subscribe">
-        <ConvertKit />
-      </Dropdown>
-    </div>-->
   </nav>
 </template>
 

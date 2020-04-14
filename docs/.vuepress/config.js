@@ -52,18 +52,8 @@ module.exports = {
     mobileLogo: "/assets/flexiple-favicon.png",
     nav: [
       {
-        text: "Take me to Flexiple",
-        link: "https://flexiple.com",
-        rel: "noopener"
-      },
-      {
-        text: "Subscribe to Newsletter",
-        link: "https://remote.tools/subscribe",
-        rel: "noopener"
-      },
-      {
         text: "Follow us on Twitter",
-        link: "https://twitter.com/RemoteTools",
+        link: "https://twitter.com/Flexipletweets",
         rel: "noopener"
       }
     ],
