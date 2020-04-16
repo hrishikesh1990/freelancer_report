@@ -71,14 +71,7 @@ module.exports = {
   },
   plugins: {
     "@vuepress/google-analytics": {
-      ga: "UA-127123211-3"
-    },
-    robots: {
-      host: "https://remoteWork2020.com",
-      allowAll: true
-    },
-    sitemap: {
-      hostname: "https://remoteWork2020.com"
+      ga: "UA-104079416-3"
     },
     'vuepress-plugin-nprogress':{}
   }
