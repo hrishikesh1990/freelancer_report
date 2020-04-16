@@ -105,8 +105,9 @@ On a parting note, below are the average hourly rates of freelance developers wo
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 

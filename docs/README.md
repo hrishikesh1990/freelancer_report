@@ -32,8 +32,9 @@ In totality, the aim of this guide is to ensure that you are taken care of in ev
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 

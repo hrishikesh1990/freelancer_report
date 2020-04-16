@@ -291,8 +291,9 @@ You could also put up a job posting on its ‘Jobs’ page. The extra features t
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 

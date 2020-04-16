@@ -220,8 +220,9 @@ For instance, on Flexiple, you will only find the top 1% freelance developers wh
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 

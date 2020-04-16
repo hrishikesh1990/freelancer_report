@@ -99,8 +99,9 @@ The implications of making a bad hire are too pronounced – delays in product d
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 

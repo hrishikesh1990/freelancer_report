@@ -89,8 +89,9 @@ Source: [Business Insider](https://www.businessinsider.com/best-freelance-skills
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 

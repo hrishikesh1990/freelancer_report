@@ -110,8 +110,9 @@ Remember, however, that the process of managing freelance projects becomes a lot
 <style>
 .PH {
   position: fixed;
-  bottom: 30px;
+  bottom: 20px;
   right: 30px;
+  z-index: 2;
 }
 </style>
 
