@@ -97,3 +97,15 @@ When hiring in-house employees, companies only have access to a finite pool. The
 Hiring freelance developers offers companies a game-changing competitive edge by giving them the ability to leverage worldwide talent.
 
 Skills, technical expertise, and prices for freelancers vary across the geographies. So if a company is ready to embrace remote working, it increases the odds of finding the best-suited person for the job significantly.
+
+<style>
+.PH {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+</style>
+
+<div class='PH'>
+  <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</div>

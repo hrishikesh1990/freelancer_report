@@ -106,3 +106,15 @@ Last, but certainly not the least, it is important to harbour a good relationshi
 Most freelancers require some onboarding time to understand your business and your goals, as well as to get a better handle on the working culture of your company. It is up to the leaders to get freelancers integrated into the team seamlessly and ensure they have everything in place to put their best foot forward.
 
 Remember, however, that the process of managing freelance projects becomes a lot less painstaking if you [hire the right freelancer](/7-how-to-choose-the-right-freelance-web-or-app-developer.md). A quality freelancer will have the required skillsets to make most of these challenges easier to manage.
+
+<style>
+.PH {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+</style>
+
+<div class='PH'>
+  <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</div>

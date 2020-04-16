@@ -101,3 +101,15 @@ With the living costs differing across regions, the hourly rates for freelance w
 On a parting note, below are the average hourly rates of freelance developers worldwide. We’ve aggregated the data over the past 4 years, and categorised it by geography:
 
 ![Freelancer-hourly-rates-by-geography.PNG](https://blog.flexiple.com/wp-content/uploads/2020/03/Freelancer-hourly-rates-by-geography.png)
+
+<style>
+.PH {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+</style>
+
+<div class='PH'>
+  <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</div>

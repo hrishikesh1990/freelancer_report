@@ -28,3 +28,15 @@ and finally,
 * [How to manage freelance engagements?](8-how-to-manage-a-freelance-project)
 
 In totality, the aim of this guide is to ensure that you are taken care of in every step of your journey to hire a freelance developer. Bookmark this resource and keep coming back to it whenever you face a particular challenge - it shall not disappoint (or so we hope).
+
+<style>
+.PH {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+</style>
+
+<div class='PH'>
+  <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</div>

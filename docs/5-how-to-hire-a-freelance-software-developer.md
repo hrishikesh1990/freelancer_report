@@ -287,3 +287,15 @@ You could also put up a job posting on its ‘Jobs’ page. The extra features t
 * Nothing, if you want to use the free version
 
 * [LinkedIn Recruiter](https://business.linkedin.com/en-in/talent-solutions/recruiter) starts from $100/month
+
+<style>
+.PH {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+</style>
+
+<div class='PH'>
+  <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</div>

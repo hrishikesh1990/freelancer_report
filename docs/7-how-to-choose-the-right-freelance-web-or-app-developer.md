@@ -95,3 +95,15 @@ This continuous evaluation is carried out by considering a host of factors. For 
 
 ### Closing thoughts
 The implications of making a bad hire are too pronounced – delays in product development cycles and lost opportunity costs. It might often be tempting to save effort and time by rushing through the evaluation process, especially if you’re dealing with hundreds of applicants. However, it really pays off to do a thorough assessment of candidates.
+
+<style>
+.PH {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+</style>
+
+<div class='PH'>
+  <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+</div>
