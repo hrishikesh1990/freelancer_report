@@ -2,7 +2,7 @@
 <div class="hire-freelancer">
 <b>Hire the <span>Top 1%</span> Freelance Developers and Designers</b>
 <br><br>
-<a href="https://flexiple.com/customer-form?utm_source=freelancer-report" target="_blank">
+<a href="https://flexiple.com?utm_source=freelancer-report" target="_blank">
 <button class='button'><span><b>GET STARTED</b></span></button>
 </a>
 </div>

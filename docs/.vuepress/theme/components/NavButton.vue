@@ -1,5 +1,5 @@
 <template>
-<a href="https://flexiple.com/customer-form?utm_source=freelancer-report" target="_blank">
+<a href="https://1.flexiple.com/hire-freelance-developers?utm_source=freelancer-report" target="_blank">
 <button class='hire-freelance-button'>Hire Top Freelance Talent</button>
 </a>
 </template>
