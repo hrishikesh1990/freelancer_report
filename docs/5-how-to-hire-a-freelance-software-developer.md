@@ -87,7 +87,7 @@ Premium freelance networks have in-house experts to help you find the best candi
 * Rates (inclusive of commission) range from $30 – $200/hr (differs from platform to platform)
 
 #### Examples of vetted freelance networks
-* [Flexiple](http://flexiple.com/)
+* [Flexiple](https://flexiple.com/)
 * [Toptal](https://toptal.com/)
 * [Scalable Path](https://www.scalablepath.com/)
 * [Gun.io](https://www.gun.io/)
