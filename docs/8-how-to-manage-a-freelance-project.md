@@ -1,5 +1,6 @@
 ---
 title: Art of managing freelance projects effectively
+description: There are many challenges to managing freelance projects. In this article, we'll tell you how to overcome them and manage freelance engagements effectively.
 ---
 
 ![how-to-manage-a-freelance-project.png](/assets/how-to-manage-a-freelance-project.png)

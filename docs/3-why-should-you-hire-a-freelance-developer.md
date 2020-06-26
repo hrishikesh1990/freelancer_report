@@ -1,5 +1,6 @@
 ---
 title: Why should you hire a freelance developer?
+description: Shortcomings of being tied to hiring full-time talent and why companies should consider hiring freelance developers to supplement their team.
 ---
 
 ![why-should-you-hire-a-freelance-developer.png](/assets/why-should-you-hire-a-freelance-developer.png)

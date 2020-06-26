@@ -1,5 +1,6 @@
 ---
 title: The Utimate Guide to Hire Freelance Developers
+description: Flexiple's Guide to Hire Freelance Developers is the only go-to resource you need to hire a quality developer into your team and ensure a successful execution of your product.
 ---
 
 ![freelancer-guide-introduction.png](/assets/freelancer-guide-introdution.png)

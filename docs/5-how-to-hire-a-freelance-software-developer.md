@@ -1,5 +1,6 @@
 ---
 title: 8 Ways to Hire a Freelance Software Developer for Your Requirements
+description: Once you have finalised your requirements and look to hire freelance software developers, these 8 sources are great places to start your search from.
 ---
 
 ![how-to-hire-a-freelance-software-developer.png](/assets/how-to-hire-a-freelance-software-developer.png)

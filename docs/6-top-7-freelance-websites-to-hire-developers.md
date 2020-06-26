@@ -1,5 +1,6 @@
 ---
 title: Top 7 Freelance Websites to Hire Developers For Your Team
+description: To hire the right developer for your team, you should know the different types of freelance websites, the top names and which one to use for your use-case.
 ---
 
 ![top-7-freelance-websites-to-hire-developers.png](/assets/top-7-freelance-websites-to-hire-developers.png)

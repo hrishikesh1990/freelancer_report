@@ -1,5 +1,6 @@
 ---
-title: Current Trends
+title: Current Freelance Market Trends
+description: Looking into the various trends in the freelance market, supported by strong statistics and metrics.
 ---
 ![current-freelance-trends.png](/assets/current-freelance-trends.png)
 

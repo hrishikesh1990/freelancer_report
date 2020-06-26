@@ -1,5 +1,6 @@
 ---
 title: How to choose the right freelance web or app developer?
+description: After deciding to hire a freelance developer, the next question you would have: how to choose the right developer for you? Let's lay it down together.
 ---
 
 ![how-to-choose-the-right-freelance-web-or-app-developer.png](/assets/how-to-choose-the-right-freelance-web-or-app-developer.png)
