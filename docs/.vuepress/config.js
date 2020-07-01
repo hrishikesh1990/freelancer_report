@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Freelance Developer Hiring Guide',
+  title: '',
   description: "The Ultimate Guide to Hire Freelance Developers",
   head: [
     [
