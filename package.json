@@ -7,7 +7,7 @@
     "vuepress-plugin-sitemap": "^2.3.1"
   },
   "scripts": {
-    "build": "cd docs && vuepress build",
+    "build": "cd docs && vuepress build && cp _redirects .vuepress/dist",
     "dev": "cd docs && vuepress dev"
   },
   "devDependencies": {
