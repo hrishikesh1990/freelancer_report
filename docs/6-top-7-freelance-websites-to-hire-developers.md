@@ -1,3 +1,4 @@
+<!--
 ---
 title: Top 7 Freelance Websites to Hire Developers For Your Team
 description: To hire the right developer for your team, you should know the different types of freelance websites, the top names and which one to use for your use-case.
@@ -230,3 +231,4 @@ For instance, on Flexiple, you will only find the top 1% freelance developers wh
 <div class='PH'>
   <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
+-->

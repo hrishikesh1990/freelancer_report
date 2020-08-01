@@ -1,3 +1,4 @@
+<!--
 ---
 title: Art of managing freelance projects effectively
 description: There are many challenges to managing freelance projects. In this article, we'll tell you how to overcome them and manage freelance engagements effectively.
@@ -120,3 +121,4 @@ Remember, however, that the process of managing freelance projects becomes a lot
 <div class='PH'>
   <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
+-->

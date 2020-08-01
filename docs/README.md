@@ -1,3 +1,4 @@
+<!--
 ---
 title: The Utimate Guide to Hire Freelance Developers
 description: Flexiple's Guide to Hire Freelance Developers is the only go-to resource you need to hire a quality developer into your team and ensure a successful execution of your product.
@@ -42,3 +43,4 @@ In totality, the aim of this guide is to ensure that you are taken care of in ev
 <div class='PH'>
   <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
+-->

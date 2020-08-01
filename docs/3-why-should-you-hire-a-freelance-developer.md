@@ -1,3 +1,4 @@
+<!--
 ---
 title: Why should you hire a freelance developer?
 description: Shortcomings of being tied to hiring full-time talent and why companies should consider hiring freelance developers to supplement their team.
@@ -111,3 +112,4 @@ Skills, technical expertise, and prices for freelancers vary across the geograph
 <div class='PH'>
   <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
+-->

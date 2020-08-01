@@ -1,3 +1,4 @@
+<!--
 ---
 title: 8 Ways to Hire a Freelance Software Developer for Your Requirements
 description: Once you have finalised your requirements and look to hire freelance software developers, these 8 sources are great places to start your search from.
@@ -301,3 +302,4 @@ You could also put up a job posting on its ‘Jobs’ page. The extra features t
 <div class='PH'>
   <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
+-->

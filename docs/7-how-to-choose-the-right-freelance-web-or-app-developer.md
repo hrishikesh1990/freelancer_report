@@ -1,3 +1,4 @@
+<!--
 ---
 title: How to choose the right freelance web or app developer?
 description: After deciding to hire a freelance developer, the next question you would have - how to choose the right developer for you? Let's lay it down together.
@@ -109,3 +110,4 @@ The implications of making a bad hire are too pronounced – delays in product d
 <div class='PH'>
   <a href="https://www.producthunt.com/posts/ultimate-guide-to-hire-freelance-devs?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-ultimate-guide-to-hire-freelance-devs" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=192806&theme=light" alt="Ultimate Guide to Hire Freelance Devs - A guide for your every step to hire a freelance developer | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 </div>
+--><!--
